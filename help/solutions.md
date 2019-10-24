@@ -41,7 +41,7 @@ Analytics 탭에는 Analytics 구현에 대한 정보가 [제공됩니다](https
 
 **연결된 계정(기존)**
 
-계정 **[!UICONTROL 연결을]**&#x200B;클릭한 다음 요청된 정보를 입력하여 Analytics 계정을 디버거에 연결합니다.
+을 **[!UICONTROL Link Account]**&#x200B;클릭한 다음 요청된 정보를 입력하여 Analytics 계정을 디버거에 연결합니다.
 
 >[!NOTE]
 >
@@ -61,11 +61,11 @@ Analytics 탭에는 Analytics 구현에 대한 정보가 [제공됩니다](https
 
 타겟 탭을 사용하여 Target [요청이나](https://docs.adobe.com/content/help/en/target/using/target-home.html) Mbox 추적 [응답](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) 세부 사항을 볼 수 있습니다.
 
-요청을 **[!UICONTROL 클릭한]**&#x200B;다음 환경을 확장하여 Target에 대한 정보를 봅니다.
+을 **[!UICONTROL Requests]**&#x200B;클릭한 다음 환경을 확장하여 Target에 대한 정보를 봅니다.
 
 ![](assets/target-requests.jpg)
 
-현재 **[!UICONTROL 표시된]** 요청을 제거하려면 모든 요청 지우기를 클릭합니다. 더 많은 요청이 작성되면 표시됩니다.
+을 **[!UICONTROL Clear All Requests]** 클릭하여 현재 표시된 요청을 제거합니다. 더 많은 요청이 작성되면 표시됩니다.
 
 Target 필터를 사용하여 Target 디버깅을 위해 MBox 추적을 [활성화할 수도](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)있습니다.
 
@@ -97,7 +97,7 @@ Audience Manager [탭을 사용하여](https://experiencecloud.adobe.com/resourc
 
 ![](assets/audience-manager.jpg)
 
-모든 **[!UICONTROL 이벤트]** 지우기를 클릭하여 표시된 정보를 재설정합니다. 새 이벤트가 발생할 때 나타납니다.
+아이콘을 **[!UICONTROL Clear All Events]** 클릭하여 표시된 정보를 재설정합니다. 새 이벤트가 발생할 때 나타납니다.
 
 **ID 동기화**
 
@@ -111,14 +111,14 @@ ID 동기화는 인바운드 비동기 데이터 전송 프로세스의 첫 번�
 
 Advertising Cloud 탭을 사용하여 Advertising Cloud 요청을 봅니다.
 
-요청을 **[!UICONTROL 클릭한]**&#x200B;다음 환경을 확장하여 Advertising Cloud에 대한 정보를 봅니다.
+아이콘을 **[!UICONTROL Requests]**&#x200B;클릭한 다음 환경을 확장하여 Advertising Cloud에 대한 정보를 봅니다.
 
-현재 **[!UICONTROL 표시된]** 요청을 제거하려면 모든 요청 지우기를 클릭합니다. 더 많은 요청이 작성되면 표시됩니다.
+을 **[!UICONTROL Clear All Requests]** 클릭하여 현재 표시된 요청을 제거합니다. 더 많은 요청이 작성되면 표시됩니다.
 
 ## Experience Cloud ID 서비스 {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 Experience Cloud ID 서비스 탭을 사용하여 Experience [Cloud ID 서비스 요청을](https://experiencecloud.adobe.com/resources/help/en_US/mcvid/) 봅니다.
 
-요청을 **[!UICONTROL 클릭한]**&#x200B;다음 환경을 확장하여 Experience Cloud ID 서비스에 대한 정보를 봅니다.
+을 **[!UICONTROL Requests]**&#x200B;클릭한 다음 환경을 확장하여 Experience Cloud ID 서비스에 대한 정보를 봅니다.
 
-현재 **[!UICONTROL 표시된]** 요청을 제거하려면 모든 요청 지우기를 클릭합니다. 더 많은 요청이 작성되면 표시됩니다.
+을 **[!UICONTROL Clear All Requests]** 클릭하여 현재 표시된 요청을 제거합니다. 더 많은 요청이 작성되면 표시됩니다.
