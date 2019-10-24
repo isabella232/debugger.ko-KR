@@ -17,7 +17,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 ![](assets/tools.jpg)
 
-어떤 페이지에서든 Launch 또는 DTM을 동적으로 삽입하여 Launch 또는 DTM이 설치되어 있지 않은 페이지에서 테스트해 볼 수 있습니다. 포함 **[!UICONTROL 코드]** 아이콘을 클릭한 다음 [포함 코드를](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) 입력하고 저장을 **[!UICONTROL 클릭합니다]**.
+어떤 페이지에서든 Launch 또는 DTM을 동적으로 삽입하여 Launch 또는 DTM이 설치되어 있지 않은 페이지에서 테스트해 볼 수 있습니다. 아이콘을 **[!UICONTROL Embed Code]** 클릭한 다음 [포함 코드를](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) 입력하고 **[!UICONTROL Save]**&#x200B;을 클릭합니다.
 
 ![](assets/tools-embedcode.jpg)
 
