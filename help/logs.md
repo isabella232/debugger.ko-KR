@@ -22,4 +22,4 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 ![](assets/logs.jpg)
 
-일부 DTM 로그 항목에는 메시지에 코드 표시 옵션이 포함됩니다. 규칙 **[!UICONTROL 실행]** 여부를 결정하는 조건부 코드를 보려면 코드 표시를 클릭합니다.
+일부 DTM 로그 항목에는 메시지에 코드 표시 옵션이 포함됩니다. 규칙을 **[!UICONTROL Show Code]** 실행할지 여부를 결정하는 조건부 코드를 보려면 을 클릭합니다.
