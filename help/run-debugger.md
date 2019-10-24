@@ -23,7 +23,7 @@ Adobe Experience Cloud 디버거 요약 화면이 나타납니다.
 
 이 화면에는 페이지의 축소판뿐만 아니라 페이지의 URL 및 제목이 표시됩니다. 또한 각 Adobe Experience Cloud 솔루션에 대한 정보도 표시됩니다. 표시되는 정보는 솔루션마다 다르지만, 일반적으로 솔루션 라이브러리 및 버전(예: "AppMeasurement v2.9")과 계정 식별자(예: Analytics 보고서 세트 ID, Target 클라이언트 코드, Audience Manager 파트너 ID 등) 등의 정보가 포함됩니다
 
-창 위쪽에 있는 탭 옆의 파란색 숫자는 수행된 서버 호출 수를 보여줍니다. 각 탭 내에서 모든 요청 **[!UICONTROL 지우기를 클릭하여 이]** 값을 0으로 재설정할 수 있습니다.
+창 위쪽에 있는 탭 옆의 파란색 숫자는 수행된 서버 호출 수를 보여줍니다. 각 탭 **[!UICONTROL Clear All Requests]** 내에서 클릭하여 0으로 재설정할 수 있습니다.
 
 예를 들어 다음 이미지는 Adobe Target에 대한 정보를 보여줍니다. 인증 없이 아래에 설명된 활동 세부 정보를 표시하려면 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 [응답 토큰을](https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html) 켜야 합니다.
 
@@ -31,7 +31,7 @@ Adobe Experience Cloud 디버거 요약 화면이 나타납니다.
 
 ## 감사자에서 감사 실행 {#section-82bc57440406461ebf27a16855b71655}
 
-Adobe Auditor를 사용하여 페이지에서 일련의 감사를 실행할 수 있습니다. Auditor를 실행하려면 상단 **[!UICONTROL 메뉴에서 Auditor]** 를 클릭한 다음 지금 **[!UICONTROL 감사 페이지를 클릭합니다]**. Adobe Auditor를 열려면 지금 **[!UICONTROL 다중 페이지 감사 실행을 클릭합니다]**.
+Adobe Auditor를 사용하여 페이지에서 일련의 감사를 실행할 수 있습니다. Auditor를 실행하려면 상단 **[!UICONTROL Auditor]** 메뉴에서 을 클릭한 다음 을 클릭합니다 **[!UICONTROL Audit Page Now]**. Adobe Auditor를 열려면 을 클릭합니다 **[!UICONTROL Run Multi-Page Audit Now]**.
 
 ## 디버거에 표시된 정보 {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
