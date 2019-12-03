@@ -5,12 +5,12 @@ sub-product: experience cloud debugger
 audience: end-user
 user-guide-title: Experience Cloud Debugger Help
 translation-type: tm+mt
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
 
 
-# Experience Cloud Debugger 도움말 {#using}
+# Experience Cloud Debugger 도움말 {#using-v2}
 
 + [Adobe Experience Cloud Debugger 확장 프로그램](experience-cloud-debugger.md)
 + [릴리스 노트](release-notes.md)
