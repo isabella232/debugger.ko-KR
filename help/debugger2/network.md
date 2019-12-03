@@ -6,7 +6,7 @@ seo-title: 네트워크 정보
 title: 네트워크 정보
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
 
@@ -19,7 +19,7 @@ To view Network information, click **[!UICONTROL Network]**.
 
 ![](assets/network.jpg)
 
-이 화면은 Experience Cloud 방문자 ID 또는 보충 데이터 ID와 같이 통합에 사용된 매개 변수가 통합 전체에서 일관되는지 확인하는 데 유용합니다.
+이 화면은 히트 간 키 값 쌍을 비교하는 데 유용합니다. 통합에 사용된 매개 변수(예: Experience Cloud 방문자 ID 또는 보충 데이터 ID)가 통합 전체에서 일관되는지 확인할 수 있습니다.
 
 >[!NOTE]
 >
