@@ -4,12 +4,12 @@ description: Adobe Debugger의 요약 화면 설명
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: c2f512f5451befbdb7aa39ac3f17a89a8c52a55f
+source-git-commit: b4a4b74f3c60b88881fe90411826e8194f4a4f2c
 
 ---
 
 
-# 요약 화면{#summary-screen}
+# 요약 화면 {#summary-screen}
 
 Experience Cloud Debugger를 실행하려면 확장 프로그램 모음에서 확장 프로그램 아이콘을 클릭한 다음 Chrome에서 검사할 페이지를 엽니다.
 
