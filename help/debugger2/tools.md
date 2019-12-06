@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: 도구
 title: 도구
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
 
 ---
@@ -17,7 +17,7 @@ source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
 
 ![](assets/tools.jpg)
 
-어떤 페이지에서든 Launch 또는 DTM을 동적으로 삽입하여 Launch 또는 DTM이 설치되어 있지 않은 페이지에서 테스트해 볼 수 있습니다. Click the **[!UICONTROL Embed Code]** icon, then type your [embed code](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) and click **[!UICONTROL Save]**.
+어떤 페이지에서든 Launch 또는 DTM을 동적으로 삽입하여 Launch 또는 DTM이 설치되어 있지 않은 페이지에서 테스트해 볼 수 있습니다. **[!UICONTROL Embed Code]** 아이콘을 클릭한 다음 [포함 코드](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html)를 입력하고 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
 ![](assets/tools-embedcode.jpg)
 
