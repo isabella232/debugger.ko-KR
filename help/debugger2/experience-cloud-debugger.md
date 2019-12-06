@@ -1,23 +1,23 @@
 ---
 description: 디버거는 웹 페이지를 검사하여 Experience Cloud 솔루션 구현 방법과 관련된 문제를 찾는 데 도움을 줍니다.
 keywords: debugger;experience cloud debugger extension;chrome;extension
-seo-description: Adobe Experience Cloud Debugger 2.0 Chrome 및 Firefox Extension에 대한 기술 문서 - 웹 페이지를 살펴보고 Experience Cloud 솔루션 구현 시 발생하는 문제를 이해합니다.
-seo-title: Adobe Experience Cloud Debugger 2.0 Chrome 및 Firefox Extension
-title: Adobe Experience Cloud Debugger 2.0 Extension
+seo-description: Adobe Experience Cloud Debugger 2.0 Chrome 및 Firefox 확장 프로그램에 대한 기술 문서 - 웹 페이지를 살펴보고 Experience Cloud 솔루션 구현과 관련된 문제를 파악합니다.
+seo-title: Adobe Experience Cloud Debugger 2.0 Chrome 및 Firefox 확장 프로그램
+title: Adobe Experience Cloud Debugger 2.0 확장 프로그램
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
 
 ---
 
 
-# Adobe Experience Cloud Debugger 2.0 Extension{#adobe-experience-cloud-debugger-extension}
+# Adobe Experience Cloud Debugger 2.0 확장 프로그램{#adobe-experience-cloud-debugger-extension}
 
-The [Adobe Experience Cloud Debugger 2.0 extension for Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/) examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented.
+[Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) 및 [Firefox](https://addons.mozilla.org/ko-KR/firefox/addon/adobe-experience-platform-dbg/)용 Adobe Experience Cloud Debugger 2.0 확장 프로그램은 웹 페이지를 살펴보고 Experience Cloud 솔루션이 구현되는 방식과 관련된 문제를 찾는 데 도움이 됩니다.
 
-다음과 같은 워크플로우에서 Adobe Experience Cloud Debugger 2.0 익스텐션과 다른 Adobe 정품 인증 솔루션을 함께 사용하십시오.
+다음과 같은 작업 과정에 대한 다른 Adobe 활성화 솔루션으로 Adobe Experience Cloud Debugger 2.0 확장 프로그램을 사용합니다.
 
-1. [Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html) 또는 [DTM](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)을 사용하여 페이지에서 [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) 솔루션을 활성화하는 코드를 삽입합니다.
+1. [Launch](https://docs.adobe.com/content/help/ko-KR/launch/using/overview.html) 또는 [DTM](https://docs.adobe.com/content/help/ko-KR/dtm/using/dtm-home.html)을 사용하여 페이지에서 [Adobe Experience Cloud](https://docs.adobe.com/content/help/ko-KR/core-services/interface/experience-cloud.html) 솔루션을 활성화하는 코드를 삽입합니다.
 
 1. [Adobe Cloud Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/)를 사용하여 구현을 테스트합니다.
 1. Adobe Experience Cloud Debugger 확장 프로그램을 사용하여 감사에서 발견한 문제를 디버깅하거나 구현에 대한 다른 정보를 조사합니다.
