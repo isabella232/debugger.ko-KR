@@ -5,7 +5,7 @@ seo-description: Adobe Experience Cloud Debugger Chrome 확장 프로그램에 �
 seo-title: Adobe Experience Cloud Debugger Chrome 확장 프로그램
 title: Adobe Experience Cloud Debugger 확장 프로그램
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
@@ -17,7 +17,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 다음과 같은 작업 과정에 대한 다른 Adobe 활성화 솔루션으로 Adobe Experience Cloud Debugger 확장 프로그램을 사용합니다.
 
-1. [Launch](https://docs.adobelaunch.com) 또는 [DTM](https://experiencecloud.adobe.com/resources/help/en_US/dtm/)을 사용하여 페이지에서 [Adobe Experience Cloud](https://marketing.adobe.com/resources/help/en_US/mcloud/) 솔루션을 활성화하는 코드를 삽입합니다.
+1. [Launch](https://docs.adobelaunch.com) 또는 [DTM](https://experiencecloud.adobe.com/resources/help/ko_KR/dtm/)을 사용하여 페이지에서 [Adobe Experience Cloud](https://marketing.adobe.com/resources/help/ko_KR/mcloud/) 솔루션을 활성화하는 코드를 삽입합니다.
 
 1. [Adobe Cloud Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/)를 사용하여 구현을 테스트합니다.
 1. Adobe Experience Cloud Debugger 확장 프로그램을 사용하여 감사에서 발견한 문제를 디버깅하거나 구현에 대한 다른 정보를 조사합니다.
