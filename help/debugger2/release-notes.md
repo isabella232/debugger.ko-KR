@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: 릴리스 노트
 title: 릴리스 노트
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
 
 ---
