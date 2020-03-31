@@ -4,13 +4,17 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;events;d
 seo-description: 'null'
 seo-title: 이벤트
 title: 이벤트
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # 이벤트{#events}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0은 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
 이벤트 화면에서는 발생하는 이벤트가 타임라인에 표시된 그래픽으로 보기를 제공됩니다.
 
@@ -30,7 +34,9 @@ source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 1. 오른쪽 위의 톱니바퀴 아이콘을 클릭합니다.
 1. 데이터 레이어의 이름을 입력합니다.
+
    ![](assets/event-datalayer.jpg)
+
 1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
 데이터 레이어 변경 세부 사항에 삭제되거나 추가된 모든 내용이 표시됩니다. 데이터 레이어를 자세히 살펴보려면 **{}** 기호를 클릭합니다.
