@@ -5,13 +5,17 @@ seo-description: 'null'
 seo-title: 도구
 title: 도구
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: ht
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # 도구{#tools}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0은 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
 도구 화면에서 설치된 솔루션에 대한 다양한 도구를 활성화하거나 비활성화할 수 있습니다. 예를 들어 Target의 콘솔 디버깅 문을 켜거나 DTM 스테이징 라이브러리를 사용할 수 있습니다. 이러한 도구는 Target 및 DTM이 페이지에 설치된 경우에만 사용할 수 있습니다.
 
@@ -81,4 +85,4 @@ source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
 
 다음 비디오는 Adobe Target에서 디버거 확장을 사용하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
