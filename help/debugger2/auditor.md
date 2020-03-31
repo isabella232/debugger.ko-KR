@@ -2,15 +2,18 @@
 description: 'null'
 keywords: debugger;experience cloud debugger extension;chrome;extension;auditor;dtm;target
 seo-description: 'null'
-seo-title: 감사기
 title: 감사기
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # 감사기{#auditor}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0은 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
 Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html)를 사용하여 Auditor 화면에서 페이지에 대한 일련의 감사를 실행할 수 있습니다.
 
