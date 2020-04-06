@@ -6,22 +6,22 @@ seo-title: Adobe Experience Platform Debugger Chrome 및 Firefox Extension
 title: Adobe Experience Platform 디버거 확장
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # (베타) Adobe Experience Platform Debugger 2.0 {#adobe-experience-platform-debugger}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0은 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
+>Adobe Experience Cloud Debugger 2.0은 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
-The [Adobe Experience Platform Debugger for Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/) examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented.
+The [Adobe Experience Platform Debugger for Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) and [Firefox](https://addons.mozilla.org/ko-KR/firefox/addon/adobe-experience-platform-dbg/) examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented.
 
 Adobe Experience Platform Debugger와 다른 Adobe 활성화 솔루션을 함께 사용하면 다음과 같은 워크플로우를 수행할 수 있습니다.
 
-1. [Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html) 또는 [DTM](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)을 사용하여 페이지에서 [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) 솔루션을 활성화하는 코드를 삽입합니다.
+1. [Launch](https://docs.adobe.com/content/help/ko-KR/launch/using/overview.html) 또는 [DTM](https://docs.adobe.com/content/help/ko-KR/dtm/using/dtm-home.html)을 사용하여 페이지에서 [Adobe Experience Cloud](https://docs.adobe.com/content/help/ko-KR/core-services/interface/experience-cloud.html) 솔루션을 활성화하는 코드를 삽입합니다.
 
 1. [Adobe Cloud Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/)를 사용하여 구현을 테스트합니다.
 1. Adobe Experience Platform Debugger를 사용하여 Auditor에서 발견한 문제를 디버깅하거나 구현에 대한 다른 정보를 검사합니다.
