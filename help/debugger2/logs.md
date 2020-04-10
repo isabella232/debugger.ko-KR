@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: 로그
 title: 로그
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -17,7 +17,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 >
 >Adobe Experience Cloud Debugger 2.0은 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
-[로그] 화면에서는 DTM, Launch 및 AEP 웹 SDK 구현에 대한 정보를 제공합니다. 이 정보를 표시하기 위해 DTM용 콘솔 디버깅 도구를 활성화하지 않아도 됩니다. 관련된 도구를 통해 구현된 솔루션별로 필터링할 수 있습니다.
+로그 화면에서는 DTM, Launch 및 AEP 웹 SDK 구현에 대한 정보를 제공합니다. 이 정보를 표시하기 위해 DTM용 콘솔 디버깅 도구를 활성화하지 않아도 됩니다. 관련된 도구를 통해 구현된 솔루션별로 필터링할 수 있습니다.
 
 ![](assets/logs.jpg)
 
@@ -36,6 +36,6 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 **[!UICONTROL Log message]:**문제를 설명합니다.
 
-일부 로그 메시지에는 코드 표시 옵션이 포함됩니다. 규칙 실행 여부를 결정하는 조건부 코드를 보려면 **[!UICONTROL Show Code]**&#x200B;를 클릭합니다.
+일부 로그 메시지에는 코드 표시 선택 사항이 포함됩니다. 규칙 실행 여부를 결정하는 조건부 코드를 보려면 **[!UICONTROL Show Code]**&#x200B;를 클릭합니다.
 
 로그를 지우려면 **[!UICONTROL Remove Logs]**&#x200B;를 클릭합니다.
