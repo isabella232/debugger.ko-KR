@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: 요약 화면
 title: 요약 화면
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -17,11 +17,11 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 >
 >Adobe Experience Cloud Debugger 2.0은 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
-Adobe Experience Platform Debugger를 실행하려면 브라우저 모음에서 아이콘을 클릭한 다음 브라우저에서 검사할 페이지를 엽니다.
+Adobe Experience Platform Debugger를 실행하려면 브라우저 표시줄에서 아이콘을 클릭한 다음 브라우저에서 검사할 페이지를 엽니다.
 
 ![](assets/start-icon.jpg)
 
-Adobe Experience Platform 디버거 요약 화면이 나타납니다.
+Adobe Experience Platform Debugger 요약 화면이 표시됩니다.
 
 ![](assets/summary.jpg)
 
@@ -99,38 +99,38 @@ Adobe Experience Platform 디버거 요약 화면이 나타납니다.
   </tr> 
   <tr> 
    <td colname="col1"> <p>확장 </p> </td> 
-   <td colname="col2"> <p>페이지에서 사용되는 확장 </p> </td> 
+   <td colname="col2"> <p>페이지에서 사용되는 확장 프로그램 </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-**Adobe Web SDK**
+**Adobe 웹 SDK**
 
 <table id="table_DC76D63FA6EF4891906B9E1D3E4A8A6C"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>라이브러리 버전 </p> </td> 
-   <td colname="col2"> <p>AEB 웹 SDK <a href="https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">라이브러리 버전 수</a> </p> </td> 
+   <td colname="col2"> <p>AEB 웹 SDK <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">라이브러리 버전</a>의 수 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>네임스페이스</p> </td> 
-   <td colname="col2"> <p>익스텐션에서 식별된 이름</p> </td> 
+   <td colname="col2"> <p>확장 프로그램에서 식별된 이름</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>속성 ID </p> </td> 
-   <td colname="col2"> <p>Extension에 지정된 Launch 속성의 이름 </p> </td> 
+   <td colname="col2"> <p>확장 프로그램에 지정된 Launch 속성의 이름 </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Edge Domain </p> </td> 
-   <td colname="col2"> <p>Adobe Experience Platform 익스텐션에서 데이터를 보내고 받는 도메인 </p> </td> 
+   <td colname="col1"> <p>Edge 도메인 </p> </td> 
+   <td colname="col2"> <p>Adobe Experience Platform 확장 프로그램에서 데이터를 보내고 받는 도메인입니다 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>IMS 조직 ID </p> </td> 
-   <td colname="col2"> <p>Extension에 지정된 대로 Adobe로 데이터를 전송하려는 조직 </p> </td> 
+   <td colname="col2"> <p>확장 프로그램에 지정된 대로 Adobe에서 데이터를 전송하려는 조직 </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>로깅 사용 </p> </td> 
-   <td colname="col2"> <p>이 속성에 대해 로깅을 활성화했는지 여부를 지정합니다.</p> </td> 
+   <td colname="col1"> <p>로깅 활성화됨 </p> </td> 
+   <td colname="col2"> <p>이 속성에 대해 로깅을 활성화했는지 아닌지를 지정합니다</p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -172,7 +172,7 @@ Adobe Experience Platform 디버거 요약 화면이 나타납니다.
   </tr> 
   <tr> 
    <td colname="col1"> <p>요청 이름 </p> </td> 
-   <td colname="col2"> <p>The name of a request around a <a href="https://docs.adobe.com/content/help/ko-KR/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> location</a> on the page. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/ko-KR/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
+   <td colname="col2"> <p>페이지에서 <a href="https://docs.adobe.com/content/help/ko-KR/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> 위치</a> 주위에 있는 요청 이름입니다. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/ko-KR/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>활동 이름 </p> </td> 
