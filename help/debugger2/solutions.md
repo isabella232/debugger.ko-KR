@@ -5,7 +5,7 @@ seo-description: Adobe Debugger의 솔루션 탭 사용
 seo-title: Adobe Debugger의 솔루션 탭
 title: 솔루션 탭
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -31,7 +31,7 @@ Analytics 화면에서는 [Analytics](https://docs.adobe.com/content/help/ko-KR/
 
 ## Target {#section-988873ba5ede4317953193bd7ac5474c}
 
-타겟 화면을 사용하여 Target [요청을](https://docs.adobe.com/content/help/ko-KR/target/using/target-home.html) 봅니다<!-- or [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) response details-->.
+Target 화면을 사용하여 [Target](https://docs.adobe.com/content/help/ko-KR/target/using/target-home.html) 요청을 봅니다<!-- or [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) response details-->.
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
