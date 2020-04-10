@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: 네트워크 정보
 title: 네트워크 정보
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -29,7 +29,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 >
 >현재 솔루션 호출에서 전달된 모든 매개 변수(예: Analytics 컨텍스트 변수, Target 사용자 지정 매개 변수 또는 Experience Cloud ID 서비스 고객 ID)가 네트워크 화면에 표시되는 것은 아닙니다.
 
-솔루션별 정보를 변경하려면 왼쪽 탐색 창의 목록에서 보려는 솔루션을 선택합니다. 다음은 Analytics만 표시되도록 필터링하는 예입니다.
+솔루션별로 정보를 변경하려면 왼쪽 탐색 메뉴의 목록에서 보려는 솔루션을 선택합니다. 다음은 Analytics만 표시되도록 필터링하는 예입니다.
 
 ![](assets/network-analytics.jpg)
 
