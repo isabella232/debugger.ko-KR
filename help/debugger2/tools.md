@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: 도구
 title: 도구
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -85,4 +85,4 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 다음 비디오는 Adobe Target에서 디버거 확장을 사용하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=kor)
