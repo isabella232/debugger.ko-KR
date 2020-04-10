@@ -5,13 +5,13 @@ seo-description: 'null'
 seo-title: 릴리스 노트
 title: 릴리스 노트
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
-# 릴리스 노트{#release-notes}
+# 릴리스 노트 {#release-notes}
 
 ## 릴리스 노트 {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
