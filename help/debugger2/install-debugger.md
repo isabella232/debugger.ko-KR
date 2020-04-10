@@ -5,13 +5,13 @@ seo-description: 'null'
 seo-title: Experience Cloud Debugger 설치
 title: Experience Cloud Debugger 설치
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
-# Adobe Experience Platform 디버거 설치{#install-experience-platform-debugger}
+# Adobe Experience Platform Debugger 설치{#install-experience-platform-debugger}
 
 >[!IMPORTANT]
 >
@@ -22,7 +22,7 @@ Adobe Experience Platform Debugger를 다운로드하여 설치합니다.
 * **Chrome:** [Chrome 확장 프로그램 페이지](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)에서
 * **Firefox:** [Firefox 애드온 페이지](https://addons.mozilla.org/ko-KR/firefox/addon/adobe-experience-platform-dbg/)에서
 
-Chrome 확장 프로그램 또는 Firefox Add-On을 설치하면 확장 도구 모음에 아이콘이 추가됩니다.
+Chrome 확장 프로그램 또는 Firefox 추가 기능을 설치하면 확장 프로그램 모음에 아이콘이 추가됩니다.
 
 ![](assets/start-icon.jpg)
 
