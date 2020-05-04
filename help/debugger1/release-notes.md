@@ -5,13 +5,13 @@ seo-description: 'null'
 seo-title: 릴리스 노트
 title: 릴리스 노트
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: ht
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+translation-type: tm+mt
+source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
 
 ---
 
 
-# 릴리스 노트{#release-notes}
+# 릴리스 노트 {#release-notes}
 
 ## 릴리스 노트 {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
@@ -219,7 +219,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
   </tr> 
   <tr> 
    <td colname="col1"> <p>바닥글의 도움말 링크 업데이트 </p> </td> 
-   <td colname="col2"> <p>바닥글의 도움말 링크가 <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/" format="https" scope="external"> https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/</a>로 업데이트되었습니다. </p> </td> 
+   <td colname="col2"> <p>바닥글의 도움말 링크를 https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html으로 <a href="https://docs.adobe.com/content/help/ko-KR/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> 업데이트</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -242,7 +242,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Mbox 토글 </p> </td> 
+   <td colname="col1"> <p>Mbox 전환 </p> </td> 
    <td colname="col2"> <p>Mbox 토글이 Target 탭에 추가되었습니다. </p> </td> 
   </tr> 
   <tr> 
