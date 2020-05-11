@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: 릴리스 노트
 title: 릴리스 노트
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
 
 ---
@@ -219,7 +219,7 @@ source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
   </tr> 
   <tr> 
    <td colname="col1"> <p>바닥글의 도움말 링크 업데이트 </p> </td> 
-   <td colname="col2"> <p>바닥글의 도움말 링크를 https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html으로 <a href="https://docs.adobe.com/content/help/ko-KR/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> 업데이트</a> </p> </td> 
+   <td colname="col2"> <p>바닥글의 도움말 링크를 <a href="https://docs.adobe.com/content/help/ko-KR/debugger/using/experience-cloud-debugger.html" format="https" scope="external">https://docs.adobe.com/content/help/ko-K/debugger/using/experience-cloud-debugger.html</a>로 업데이트 </p> </td> 
   </tr> 
  </tbody> 
 </table>
