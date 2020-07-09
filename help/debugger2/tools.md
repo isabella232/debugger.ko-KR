@@ -5,8 +5,11 @@ seo-description: 'null'
 seo-title: 도구
 title: 도구
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 5a84797bda8c29f1e691de418c9837c76a63c17f
+workflow-type: tm+mt
+source-wordcount: '396'
+ht-degree: 95%
 
 ---
 
@@ -70,7 +73,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
   </tr> 
   <tr> 
    <td colname="col1"> <p> Mbox 추적 활성화 </p> </td> 
-   <td colname="col2"> <p>이 도구는 디버거의 <span class="uicontrol"> Target&gt;Mbox 추적</span> 화면에서 탐색할 수 있는 Target 응답에 세부 정보를 추가합니다. </p> <p> 이 도구를 활성화하려면 Chrome 탭 중 하나에서 Experience Cloud에 로그인되어 있어야 합니다. </p> </td> 
+   <td colname="col2"> <p>이 도구는 디버거의 <span class="uicontrol"> Target&gt;Mbox 추적</span> 화면에서 탐색할 수 있는 Target 응답에 세부 정보를 추가합니다. </p> <p> 이 도구를 활성화하려면 Chrome 탭 중 하나에서 Experience Cloud에 로그인해야 합니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Target 비활성화 </p> </td> 
@@ -85,4 +88,4 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 다음 비디오는 Adobe Target에서 디버거 확장을 사용하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
