@@ -5,8 +5,11 @@ seo-description: 'null'
 seo-title: 요약 화면
 title: 요약 화면
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: f35d87473f9e1e26f9a27272d7930472cc01c188
+workflow-type: tm+mt
+source-wordcount: '940'
+ht-degree: 100%
 
 ---
 
@@ -27,7 +30,7 @@ Adobe Experience Platform Debugger 요약 화면이 표시됩니다.
 
 이 화면에서는 각 Adobe Experience Cloud 솔루션에 대한 정보를 보여줍니다. 표시되는 정보는 솔루션마다 다르지만, 일반적으로 솔루션 라이브러리 및 버전(예: &quot;AppMeasurement v2.9&quot;)과 계정 식별자(예: Analytics 보고서 세트 ID, Target 클라이언트 코드, Audience Manager 파트너 ID 등) 등의 정보를 포함합니다.
 
-## 디버거에 표시된 정보 {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## 디버거에 표시된 정보
 
 디버거에는 각 솔루션에 대한 다음 정보가 표시됩니다.
 
@@ -83,19 +86,19 @@ Adobe Experience Platform Debugger 요약 화면이 표시됩니다.
  <tbody> 
   <tr> 
    <td colname="col1"> <p>이름 </p> </td> 
-   <td colname="col2"> <p>Adobe Launch <a href="https://docs.adobelaunch.com/administration/companies-and-properties" format="https" scope="external"> 속성</a> 이름입니다. </p> </td> 
+   <td colname="col2"> <p>Adobe Launch <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> 속성</a> 이름입니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>버전 </p> </td> 
-   <td colname="col2"> <p><a href="https://developer.adobelaunch.com/guides/extensions/turbine-free-variable/" format="https" scope="external"> Turbine</a> 버전입니다. </p> </td> 
+   <td colname="col2"> <p>Turbine 버전입니다.</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>빌드 날짜 </p> </td> 
-   <td colname="col2"> <p>Launch <a href="https://docs.adobelaunch.com/publishing/libraries" format="https" scope="external"> 라이브러리</a> 빌드 날짜입니다. </p> </td> 
+   <td colname="col2"> <p>Launch <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/reference/publish/libraries.html" format="https" scope="external"> 라이브러리</a> 빌드 날짜입니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>환경 </p> </td> 
-   <td colname="col2"> <p>Launch 라이브러리에서 사용하는 <a href="https://docs.adobelaunch.com/administration/environments" format="https" scope="external"> 환경</a>입니다. </p> </td> 
+   <td colname="col2"> <p>Launch 라이브러리에서 사용하는 <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/reference/publish/environments.html" format="https" scope="external"> 환경</a>입니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>확장 </p> </td> 
