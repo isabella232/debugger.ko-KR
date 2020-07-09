@@ -5,8 +5,11 @@ seo-description: Adobe Experience Cloud Debugger 2.0 Chrome 및 Firefox 확장 �
 seo-title: Adobe Experience Platform Debugger Chrome 및 Firefox 확장 프로그램
 title: Adobe Experience Platform Debugger 확장 프로그램
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 3a5b0b6d2d7dc18113c5909b878c882cf803bba6
+workflow-type: tm+mt
+source-wordcount: '307'
+ht-degree: 100%
 
 ---
 
@@ -36,3 +39,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 * **Launch:** 페이지에 배포되는 속성, 환경, 빌드를 확인합니다.
 * **Target:** 자격이 되거나 되지 않는 활동 및 그 이유를 확인합니다.
+
+## 비디오 자습서
+
+[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
