@@ -6,10 +6,10 @@ seo-title: Adobe Experience Platform Debugger Chrome 및 Firefox 확장 프로�
 title: Adobe Experience Platform Debugger 확장 프로그램
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 translation-type: tm+mt
-source-git-commit: 3a5b0b6d2d7dc18113c5909b878c882cf803bba6
+source-git-commit: 64506a22964d68bfec84404b870c8432b0ff374c
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -42,4 +42,4 @@ ht-degree: 100%
 
 ## 비디오 자습서
 
-[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
