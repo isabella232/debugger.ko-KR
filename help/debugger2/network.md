@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Experience Cloud Debugger 네트워크 화면
 keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
-seo-description: 'null'
+seo-description: Experience Cloud Debugger 네트워크 화면
 seo-title: 네트워크 정보
 title: 네트워크 정보
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '228'
+ht-degree: 95%
 
 ---
 
