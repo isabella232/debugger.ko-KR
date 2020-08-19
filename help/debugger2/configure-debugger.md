@@ -1,11 +1,14 @@
 ---
-description: 'null'
+description: Experience Cloud Debugger 구성 방법
 keywords: debugger;experience cloud debugger extension;chrome;extension;configure
-seo-description: 'null'
+seo-description: Experience Cloud Debugger 구성 방법
 seo-title: Experience Cloud Debugger 구성
 title: Experience Cloud Debugger 구성
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 92%
 
 ---
 
@@ -22,7 +25,7 @@ Debugger가 표시되고 작동하는 방식에 대한 특정 측면을 구성�
 
 ## 밝은 모드 또는 어두운 모드
 
-Debugger가 열린 후 이동하여&#x200B;******어두운 모드**(기본값) 또는&#x200B;**밝은 모드**를 선택하면 기본 설정 모양을 선택할 수 있습니다.
+Debugger가 열린 후 이동하여&#x200B;******&#x200B;어두운 모드&#x200B;**(기본값) 또는**&#x200B;밝은 모드&#x200B;**를 선택하면 기본 설정 모양을 선택할 수 있습니다.
 
 ## 재설정
 
