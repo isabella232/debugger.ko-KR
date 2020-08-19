@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Experience Cloud Debugger 로그 화면
 keywords: debugger;experience cloud debugger extension;chrome;extension;logs
-seo-description: 'null'
+seo-description: Experience Cloud Debugger 로그 화면
 seo-title: 로그
 title: 로그
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 93%
 
 ---
 
@@ -23,18 +26,18 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 로그 화면의 네 개 열에 정보가 표시됩니다.
 
-**[!UICONTROL Solutions]:**로그된 항목의 영향을 받는 Experience Cloud 솔루션의 아이콘을 표시합니다. 아이콘 위로 마우스 커서를 이동하면 텍스트 설명이 표시됩니다.
+**[!UICONTROL Solutions]:** 로그된 항목의 영향을 받는 Experience Cloud 솔루션의 아이콘을 표시합니다. 아이콘 위로 마우스 커서를 이동하면 텍스트 설명이 표시됩니다.
 
-**[!UICONTROL Occurred at]:**로그된 문제가 세션 중 언제 발생했는지 표시합니다.
+**[!UICONTROL Occurred at]:** 로그된 문제가 세션 중 언제 발생했는지 표시합니다.
 
-**[!UICONTROL Log level]:**문제 심각성을 표시합니다. 심각도는 다음 수준 중 하나입니다.
+**[!UICONTROL Log level]:** 문제 심각성을 표시합니다. 심각도는 다음 수준 중 하나입니다.
 
 * 로그
 * 정보
 * 경고
 * 오류
 
-**[!UICONTROL Log message]:**문제를 설명합니다.
+**[!UICONTROL Log message]:** 문제를 설명합니다.
 
 일부 로그 메시지에는 코드 표시 선택 사항이 포함됩니다. 규칙 실행 여부를 결정하는 조건부 코드를 보려면 **[!UICONTROL Show Code]**&#x200B;를 클릭합니다.
 
