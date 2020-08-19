@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Experience Cloud Debugger 도구 화면
 keywords: debugger;experience cloud debugger extension;chrome;extension;tools;dtm;target
-seo-description: 'null'
+seo-description: Experience Cloud Debugger 도구 화면
 seo-title: 도구
 title: 도구
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: ht
-source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
+translation-type: tm+mt
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '388'
+ht-degree: 97%
 
 ---
 
@@ -81,4 +84,4 @@ source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 다음 비디오는 Adobe Target에서 디버거 확장을 사용하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
