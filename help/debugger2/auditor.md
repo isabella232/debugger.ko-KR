@@ -1,13 +1,13 @@
 ---
-description: 'null'
+description: Experience Platform 감사 정보
 keywords: debugger;experience cloud debugger extension;chrome;extension;auditor;dtm;target
-seo-description: 'null'
-title: 감사기
-translation-type: ht
-source-git-commit: 4746e8eaf2bb16f2b93960fc6e34329c73271f81
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+seo-description: Experience Platform 감사 정보
+title: Auditor
+translation-type: tm+mt
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 90%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 >
 >Adobe Experience Cloud Debugger 2.0은 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
-Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html)를 사용하여 Auditor 화면에서 페이지에 대한 일련의 감사를 실행할 수 있습니다.
+Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/ko-KR/auditor/using/overview.html)를 사용하여 Auditor 화면에서 페이지에 대한 일련의 감사를 실행할 수 있습니다.
 
 1. 왼쪽 탐색 메뉴에서 **[!UICONTROL Auditor]**&#x200B;를 클릭합니다.
 1. **[!UICONTROL Run Auditor Tests]**&#x200B;를 클릭합니다.
