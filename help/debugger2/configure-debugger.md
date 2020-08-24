@@ -5,10 +5,10 @@ seo-description: Experience Cloud Debugger 구성 방법
 seo-title: Experience Cloud Debugger 구성
 title: Experience Cloud Debugger 구성
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 92%
+source-wordcount: '161'
+ht-degree: 84%
 
 ---
 
@@ -25,11 +25,11 @@ Debugger가 표시되고 작동하는 방식에 대한 특정 측면을 구성�
 
 ## 밝은 모드 또는 어두운 모드
 
-Debugger가 열린 후 이동하여&#x200B;******&#x200B;어두운 모드&#x200B;**(기본값) 또는**&#x200B;밝은 모드&#x200B;**를 선택하면 기본 설정 모양을 선택할 수 있습니다.
+Debugger가 열린 후 이동하여&#x200B;**[!UICONTROL Settings]** **어두운 모드**(기본값) 또는 **밝은 모드**&#x200B;를 선택하면 기본 설정 모양을 선택할 수 있습니다.
 
 ## 재설정
 
-모든 데이터를 지우고 기본 설정으로 돌아가려면 **[!UI 모든 데이터 및 설정 재설정 제어]**&#x200B;를 클릭합니다.
+모든 데이터 **[!UICONTROL Reset all Data and Settings]** 를 지우고 기본 설정으로 돌아가려면 을 클릭합니다.
 
 ## 하나의 페이지에서 Debugger 잠금
 
