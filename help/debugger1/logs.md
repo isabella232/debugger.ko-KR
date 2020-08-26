@@ -5,11 +5,11 @@ seo-description: Experience Cloud Debugger 로그 화면
 seo-title: 로그
 title: 로그
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
