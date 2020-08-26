@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 84%
+ht-degree: 91%
 
 ---
 
@@ -25,7 +25,7 @@ Debugger가 표시되고 작동하는 방식에 대한 특정 측면을 구성�
 
 ## 밝은 모드 또는 어두운 모드
 
-Debugger가 열린 후 이동하여&#x200B;**[!UICONTROL Settings]** **어두운 모드**(기본값) 또는 **밝은 모드**&#x200B;를 선택하면 기본 설정 모양을 선택할 수 있습니다.
+Debugger가 열린 후 이동하여 **[!UICONTROL Settings]** **어두운 모드**(기본값) 또는 **밝은 모드**&#x200B;를 선택하면 기본 설정 모양을 선택할 수 있습니다.
 
 ## 재설정
 
