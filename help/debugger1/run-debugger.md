@@ -5,11 +5,11 @@ seo-description: Experience Cloud Debugger 실행
 seo-title: 요약 화면
 title: 요약 화면
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1035'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
