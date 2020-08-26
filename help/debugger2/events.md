@@ -4,11 +4,11 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;events;d
 seo-description: Experience Cloud Debugger 이벤트 화면
 seo-title: 이벤트
 title: 이벤트
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
