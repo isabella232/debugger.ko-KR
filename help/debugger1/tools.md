@@ -5,11 +5,11 @@ seo-description: Experience Cloud Debugger 도구 화면
 seo-title: 도구
 title: 도구
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '388'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -84,4 +84,4 @@ ht-degree: 97%
 
 다음 비디오는 Adobe Target에서 디버거 확장을 사용하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=kor)
