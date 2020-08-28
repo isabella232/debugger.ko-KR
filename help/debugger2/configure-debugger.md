@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Debugger가 열린 후 이동하여 **[!UICONTROL Settings]** **어두운 모드
 
 ## 재설정
 
-모든 데이터 **[!UICONTROL Reset all Data and Settings]** 를 지우고 기본 설정으로 돌아가려면 을 클릭합니다.
+모든 데이터를 지우고 기본 설정으로 돌아가려면 **[!UICONTROL Reset all Data and Settings]**&#x200B;을 클릭합니다.
 
 ## 하나의 페이지에서 Debugger 잠금
 
