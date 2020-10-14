@@ -1,14 +1,14 @@
 ---
-description: Experience Cloud Debugger 이벤트 화면
-keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: Experience Cloud Debugger 이벤트 화면
+description: Experience Platform 디버거 이벤트 화면
+keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+seo-description: Experience Platform 디버거 이벤트 화면
 seo-title: 이벤트
 title: 이벤트
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '172'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '169'
+ht-degree: 89%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0은 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
+>Adobe Experience Platform 디버거가 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
 이벤트 화면에서는 발생하는 이벤트가 타임라인에 표시된 그래픽으로 보기를 제공됩니다.
 
 ![](assets/events.jpg)
 
-각 이벤트에 적용 가능한 Experience Cloud 솔루션의 아이콘이 타임라인에 나타납니다. 아이콘에서는 데이터 레이어의 변경 사항도 보여줍니다(활성화된 경우). 이벤트 요약을 보려면 아이콘 위로 마우스 커서를 이동합니다. 자세한 내용을 보려면 이벤트를 클릭합니다. Shift 키 또는 Ctrl 키를 누른 상태에서 클릭하여 여러 이벤트를 볼 수 있습니다.
+각 이벤트에 적용 가능한 솔루션의 아이콘이 타임라인에 나타납니다. 아이콘에서는 데이터 레이어의 변경 사항도 보여줍니다(활성화된 경우). 이벤트 요약을 보려면 아이콘 위로 마우스 커서를 이동합니다. 자세한 내용을 보려면 이벤트를 클릭합니다. Shift 키 또는 Ctrl 키를 누른 상태에서 클릭하여 여러 이벤트를 볼 수 있습니다.
 
 ![](assets/events-details.jpg)
 
