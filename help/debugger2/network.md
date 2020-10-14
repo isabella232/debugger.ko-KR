@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debugger 네트워크 화면
-keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
-seo-description: Experience Cloud Debugger 네트워크 화면
+description: Experience Platform 디버거 네트워크 화면
+keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
+seo-description: Experience Platform 디버거 네트워크 화면
 seo-title: 네트워크 정보
 title: 네트워크 정보
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '228'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '227'
+ht-degree: 92%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0은 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
+>Adobe Experience Platform 디버거가 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
 네트워크 정보를 보려면 **[!UICONTROL Network]**&#x200B;를 클릭합니다.
 
