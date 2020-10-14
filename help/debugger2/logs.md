@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debugger 로그 화면
-keywords: debugger;experience cloud debugger extension;chrome;extension;logs
-seo-description: Experience Cloud Debugger 로그 화면
+description: Experience Platform 디버거 로그 화면
+keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
+seo-description: Experience Platform 디버거 로그 화면
 seo-title: 로그
 title: 로그
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 88%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0은 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
+>Adobe Experience Platform 디버거가 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
 로그 화면에서는 DTM, Launch 및 AEP 웹 SDK 구현에 대한 정보를 제공합니다. 이 정보를 표시하기 위해 DTM용 콘솔 디버깅 도구를 활성화하지 않아도 됩니다. 관련된 도구를 통해 구현된 솔루션별로 필터링할 수 있습니다.
 
