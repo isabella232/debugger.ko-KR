@@ -1,12 +1,15 @@
 ---
-description: Adobe Debugger의 솔루션 탭 사용
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
-seo-description: Adobe Debugger의 솔루션 탭 사용
-seo-title: Adobe Debugger의 솔루션 탭
+description: Adobe Experience Platform 디버거에서 솔루션 탭 사용
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
+seo-description: 'Adobe Experience Platform 디버거에서 솔루션 탭 사용 '
+seo-title: 'Adobe Experience Platform 디버거의 솔루션 탭 '
 title: 솔루션 탭
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 82%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0은 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
+>Adobe Experience Platform 디버거가 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
 특정 Adobe Experience Cloud 솔루션에 대한 결과를 참조하려면 솔루션을 클릭합니다.
 
@@ -39,7 +42,7 @@ Target 화면을 사용하여 [Target](https://docs.adobe.com/content/help/ko-KR
 
 ## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Launch 요청을 보려면 Launch 섹션을 사용합니다. **[!UICONTROL Configuration]**&#x200B;을 클릭하여 [포함 코드](https://docs.adobe.com/content/help/ko-KR/launch/using/reference/upgrade/link-dtm-embed-code.html)를 구성할 수도 있습니다.· Debugger 내에서 포함 코드를 편집, 대체 또는 추가할 수 있습니다. 로그인하는 경우 드롭다운을 사용하여 대체 속성을 선택할 수 있습니다.
+Launch 요청을 보려면 Launch 섹션을 사용합니다. **[!UICONTROL Configuration]**&#x200B;을 클릭하여 [포함 코드](https://docs.adobe.com/content/help/ko-KR/launch/using/reference/upgrade/link-dtm-embed-code.html)를 구성할 수도 있습니다.· Experience Platform Debugger에서 포함 코드를 편집, 교체 또는 추가할 수 있습니다. 로그인하는 경우 드롭다운을 사용하여 대체 속성을 선택할 수 있습니다.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
