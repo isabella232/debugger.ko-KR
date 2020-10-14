@@ -1,23 +1,26 @@
 ---
-cloud: experience-cloud
+cloud: experience-platform
 solution-title: 학습 및 지원
 solution-hub-url: https://helpx.adobe.com/kr/support/experience-cloud/core-services.html
-solution-image: help/assets/experience-cloud-logo-24.png
+solution-image: help/assets/experience-p-logo-24.png
 getting-started-title: 시작하기
 getting-started-url: https://helpx.adobe.com/kr/experience-cloud-core-services/get-started.html
 tutorials-title: 자습서
 tutorials-url: https://helpx.adobe.com/kr/analytics/how-to/adobe-launch-publishing-process.html
-git-repo: https://github.com/AdobeDocs/debugger.en
+git-repo: https://git.corp.adobe.com/AdobeDocs/debugger.ko-KR
 index: true
-translation-type: ht
-source-git-commit: d78218242347d004d2bf9737ba745d12673a06d5
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 97%
 
 ---
 
 
 # 내부용 메타데이터
 
-metadata.md 파일에는 리포지토리의 사용 안내서 TOC.md 파일에 전달되는 리포지토리 수준 메타데이터가 포함되어 있습니다. 모든 사용 안내서를 위한 metadata.md 콘텐츠를 변경하려면 TOC.md 파일에서 이 작업을 수행합니다.
+metadata.md 파일에는 리포지토리의 사용 안내서 TOC.md 파일에 전달되는 리포지토리 수준 메타데이터가 포함되어 있습니다. 모든 사용 안내서를 위한 metadata.md 컨텐츠를 변경하려면 TOC.md 파일에서 이 작업을 수행합니다.
 
 | 메타데이터 | 기능 |
 |--- |--- |
