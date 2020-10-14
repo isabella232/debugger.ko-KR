@@ -1,27 +1,27 @@
 ---
-cloud: experience-cloud
-product: experience cloud
-sub-product: experience cloud debugger 2.0
+cloud: experience-platform
+product: experience platform
+sub-product: 'experience platform debugger '
 audience: end-user
-user-guide-title: Experience Cloud Debugger 2.0 도움말
-user-guide-description: Examine your web pages for problems with your Experience Platform implementations.
-breadcrumb-title: Debugger 2.0 Guide
+user-guide-title: Experience Platform 디버거 도움말
+user-guide-description: 웹 페이지에서 Experience Platform 구현에 문제가 있는지 검사합니다.
+breadcrumb-title: 플랫폼 디버거 안내서
 index: true
-translation-type: ht
-source-git-commit: 89781a342e467513b244240c171fc5bad040ca35
-workflow-type: ht
-source-wordcount: '31'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '47'
+ht-degree: 53%
 
 ---
 
 
-# Experience Cloud Debugger 2.0 도움말 {#using-v2}
+# Experience Platform Debugger Help {#using-v2}
 
-+ [Adobe Experience Cloud Debugger 확장 프로그램](experience-cloud-debugger.md)
++ [Adobe Experience Platform Debugger 확장 프로그램](experience-cloud-debugger.md)
 + [릴리스 노트](release-notes.md)
-+ [Experience Cloud Debugger 설치](install-debugger.md)
-+ [Debugger 구성](configure-debugger.md)
++ [Experience Platform 디버거 설치](install-debugger.md)
++ [Experience Platform 디버거 구성](configure-debugger.md)
 + [요약 화면](summary.md)
 + [솔루션](solutions.md)
 + [로그](logs.md)
