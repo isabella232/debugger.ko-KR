@@ -3,11 +3,11 @@ description: Adobe Experience Platform Auditor 정보
 keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
 seo-description: Adobe Experience Platform Auditor 정보
 title: Auditor
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 90%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform 디버거가 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
+>Adobe Experience Platform Debugger는 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
 Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/ko-KR/auditor/using/overview.html)를 사용하여 Auditor 화면에서 페이지에 대한 일련의 감사를 실행할 수 있습니다.
 
