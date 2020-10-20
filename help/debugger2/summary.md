@@ -1,15 +1,15 @@
 ---
-description: Experience Platform 디버거 요약 화면
+description: Experience Platform Debugger 요약 화면
 keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Experience Platform 디버거 요약 화면
+seo-description: Experience Platform Debugger 요약 화면
 seo-title: 요약 화면
 title: 요약 화면
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '949'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 96%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform 디버거가 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
+>Adobe Experience Platform Debugger는 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
 Adobe Experience Platform Debugger를 실행하려면 브라우저 표시줄에서 아이콘을 클릭한 다음 브라우저에서 검사할 페이지를 엽니다.
 
@@ -30,9 +30,9 @@ Adobe Experience Platform Debugger 요약 화면이 표시됩니다.
 
 이 화면에서는 각 Adobe Experience Cloud 솔루션에 대한 정보를 보여줍니다. 표시되는 정보는 솔루션마다 다르지만, 일반적으로 솔루션 라이브러리 및 버전(예: &quot;AppMeasurement v2.9&quot;)과 계정 식별자(예: Analytics 보고서 세트 ID, Target 클라이언트 코드, Audience Manager 파트너 ID 등) 등의 정보를 포함합니다.
 
-## Experience Platform 디버거에 표시된 정보
+## Experience Platform Debugger에 표시된 정보
 
-Experience Platform 디버거는 각 솔루션에 대해 다음 정보를 표시합니다.
+Experience Platform Debugger에는 각 솔루션에 대한 다음 정보가 표시됩니다.
 
 **Adobe Analytics**
 
