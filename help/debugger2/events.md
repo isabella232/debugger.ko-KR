@@ -1,14 +1,14 @@
 ---
-description: Experience Platform 디버거 이벤트 화면
+description: Experience Platform Debugger 이벤트 화면
 keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
-seo-description: Experience Platform 디버거 이벤트 화면
+seo-description: Experience Platform Debugger 이벤트 화면
 seo-title: 이벤트
 title: 이벤트
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 89%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform 디버거가 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
+>Adobe Experience Platform Debugger는 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
 이벤트 화면에서는 발생하는 이벤트가 타임라인에 표시된 그래픽으로 보기를 제공됩니다.
 
