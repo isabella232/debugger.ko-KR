@@ -1,15 +1,15 @@
 ---
-description: Experience Platform 디버거가 웹 페이지를 검사하여 Experience Cloud 솔루션이 구현되는 방식에 문제를 찾도록 도와줍니다
+description: Experience Platform Debugger는 웹 페이지를 검사하여 Experience Cloud 솔루션 구현 방법과 관련된 문제를 찾는 데 도움을 줍니다.
 keywords: debugger;experience Platform Debugger extension;chrome;extension
-seo-description: Adobe Experience Platform Debugger Chrome 및 Firefox Extension에 대한 기술 문서 - 웹 페이지를 살펴보고 Experience Cloud 솔루션 구현에 대한 문제를 이해합니다
+seo-description: Adobe Experience Platform Debugger Chrome 및 Firefox 확장 프로그램에 대한 기술 문서 - 웹 페이지를 살펴보고 Experience Cloud 솔루션 구현과 관련된 문제를 파악합니다.
 seo-title: Adobe Experience Platform Debugger Chrome 및 Firefox 확장 프로그램
 title: Adobe Experience Platform Debugger 확장 프로그램
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '312'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 65%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform 디버거가 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
+>Adobe Experience Platform Debugger는 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
 [Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) 및 [Firefox](https://addons.mozilla.org/ko-KR/firefox/addon/adobe-experience-platform-dbg/)용 Adobe Experience Platform Debugger 확장 프로그램은 웹 페이지를 살펴보고 Experience Cloud 솔루션이 구현되는 방식과 관련된 문제를 찾는 데 도움이 됩니다.
 
@@ -31,15 +31,15 @@ ht-degree: 65%
 
 위의 단계는 반드시 해당 순서대로 수행되는 것은 아니지만, 일반적인 프로세스입니다.
 
-모든 웹 페이지에서 Experience Platform 디버거를 실행할 수 있지만 비공개 데이터는 열린 크롬 탭 중 하나에서 Experience Cloud에 인증된 경우에만 확장 기능에서만 사용할 수 있습니다.
+모든 웹 페이지에서 Experience Platform Debugger를 실행할 수 있지만 열려 있는 Chrome 탭 중 하나에 있는 Experience Cloud에 인증되는 경우에는 모든 비공개 데이터를 확장 프로그램에서만 사용할 수 있습니다.
 
 ## 사용 사례 {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
-Experience Platform 디버거를 사용하여 Experience Cloud 솔루션의 구현 방법을 이해하는 데 도움이 되는 정보를 수집합니다. 예:
+Experience Platform Debugger를 사용하여 Experience Cloud 솔루션의 구현 방법을 이해하는 데 도움이 되는 정보를 수집합니다. 예:
 
 * **Launch:** 페이지에 배포되는 속성, 환경, 빌드를 확인합니다.
 * **Target:** 자격이 되거나 되지 않는 활동 및 그 이유를 확인합니다.
 
 ## 비디오 자습서
 
->[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on&captions=kor)
