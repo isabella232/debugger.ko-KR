@@ -1,5 +1,6 @@
 ---
 cloud: experience-platform
+type: documentation
 solution-title: 학습 및 지원
 solution-hub-url: https://helpx.adobe.com/kr/support/experience-cloud/core-services.html
 solution-image: help/assets/experience-p-logo-24.png
@@ -9,11 +10,11 @@ tutorials-title: 자습서
 tutorials-url: https://helpx.adobe.com/kr/analytics/how-to/adobe-launch-publishing-process.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/debugger.ko-KR
 index: true
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '134'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 24d9c114cde4ffd5cc7c64b6a66f778d3ce6f7d0
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
