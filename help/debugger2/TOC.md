@@ -1,17 +1,18 @@
 ---
 cloud: experience-platform
 product: experience platform
-sub-product: 'Experience Platform Debugger '
+sub-product: Experience Platform Debugger
+solution: Experience Platform, Data Collection
 audience: end-user
 user-guide-title: Experience Platform Debugger 도움말
 user-guide-description: 웹 페이지에서 Experience Platform 구현에 문제가 있는지 검사합니다.
 breadcrumb-title: Platform Debugger 안내서
 index: true
 translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+source-git-commit: 24d9c114cde4ffd5cc7c64b6a66f778d3ce6f7d0
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
