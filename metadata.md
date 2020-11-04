@@ -10,11 +10,11 @@ tutorials-title: 자습서
 tutorials-url: https://helpx.adobe.com/kr/analytics/how-to/adobe-launch-publishing-process.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/debugger.ko-KR
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 24d9c114cde4ffd5cc7c64b6a66f778d3ce6f7d0
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '134'
+ht-degree: 100%
 
 ---
 
