@@ -5,8 +5,11 @@ seo-description: Adobe Debugger의 솔루션 탭 사용
 seo-title: Adobe Debugger의 솔루션 탭
 title: 솔루션 탭
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '1063'
+ht-degree: 94%
 
 ---
 
@@ -33,7 +36,7 @@ Analytics 탭은 [Analytics](https://docs.adobe.com/content/help/ko-KR/analytics
 
 ![](assets/analytics-hits-expand.jpg)
 
-이 화면에는 디버거가 열려 있거나 요청이 삭제된 이후의 모든 요청이 표시됩니다. 기본 매개 변수는 친숙한 이름에 자동으로 매핑됩니다. 다음 &quot;Analytics 연결&quot; 기능을 사용하여 인증하는 경우(아래 참조) [Prop 및 eVar](https://docs.adobe.com/content/help/ko-KR/analytics/implementation/vars/page-vars/evar.html) 변수를 친숙한 사용자 지정 이름에 매핑할 수 있습니다(예: &quot;prop1&quot;이 &quot;사용자 유형&quot;으로 표시될 수 있음). 요청은 왼쪽에서 오른쪽으로 순서대로 표시됩니다.
+이 화면은 Adobe Experience Platform Debugger가 열리거나 요청이 지워진 이후의 모든 요청을 표시합니다. 기본 매개 변수는 친숙한 이름에 자동으로 매핑됩니다. 다음 &quot;Analytics 연결&quot; 기능을 사용하여 인증하는 경우(아래 참조) [Prop 및 eVar](https://docs.adobe.com/content/help/ko-KR/analytics/implementation/vars/page-vars/evar.html) 변수를 친숙한 사용자 지정 이름에 매핑할 수 있습니다(예: &quot;prop1&quot;이 &quot;사용자 유형&quot;으로 표시될 수 있음). 요청은 왼쪽에서 오른쪽으로 순서대로 표시됩니다.
 
 **다운로드:** 보고서 세트에 수행된 모든 요청을 Excel 스프레드시트로 저장합니다.
 
@@ -41,7 +44,7 @@ Analytics 탭은 [Analytics](https://docs.adobe.com/content/help/ko-KR/analytics
 
 **연결된 계정(기존)**
 
-**[!UICONTROL Link Account]**&#x200B;를 클릭한 다음 요청된 정보를 입력하여 Analytics 계정을 디버거에 연결합니다.
+Click **[!UICONTROL Link Account]**, then enter the requested information to link an Analytics account to the Platform Debugger.
 
 >[!NOTE]
 >
@@ -53,7 +56,7 @@ Analytics 탭은 [Analytics](https://docs.adobe.com/content/help/ko-KR/analytics
 
 처리 규칙이 실행된 후 Analytics 히트에 대한 값을 보려면 후 처리된 히트 검색 옵션을 활성화합니다. 이 기능을 사용하려면 Adobe Experience Cloud에 로그인해야 합니다.
 
-이 옵션이 활성화화된 경우 디버깅 매개 변수가 Analytics 요청에 추가됩니다. 히트 수는 다른 히트 수와 마찬가지로 계속 처리됩니다. 디버거는 Analytics 디버깅 API를 폴링하여 원래 히트 ID가 있는 모든 히트에 대한 후 처리 규칙 값을 검색합니다. 후 처리된 히트는 배경이 보라색이며 기존 히트 옆에 표시됩니다.
+이 옵션이 활성화화된 경우 디버깅 매개 변수가 Analytics 요청에 추가됩니다. 히트 수는 다른 히트 수와 마찬가지로 계속 처리됩니다. 플랫폼 디버거는 Analytics 디버깅 API를 폴링하여 원래 히트 ID가 있는 모든 히트에 대한 사후 처리 규칙 값을 검색합니다. 후 처리된 히트는 배경이 보라색이며 기존 히트 옆에 표시됩니다.
 
 대부분의 Analytics 구현의 경우 몇 분 이내에 후 처리 규칙 정보를 사용할 수 있습니다. A4T(Analytics for Target) 구현은 훨씬 더 오래 걸립니다.
 
@@ -85,11 +88,11 @@ Mbox 추적을 활성화하려면 Experience Cloud에 인증된 Chrome 탭이 �
 
 다음 비디오는 일반적인 Target 기능을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
 
 다음 비디오는 Mbox 추적을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
