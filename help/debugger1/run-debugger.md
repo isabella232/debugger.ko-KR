@@ -5,18 +5,18 @@ seo-description: Experience Cloud Debugger 실행
 seo-title: 요약 화면
 title: 요약 화면
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1047'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 
 # 요약 화면{#summary-screen}
 
-Adobe Experience Cloud 디버거를 실행하려면 확장 도구 모음에서 확장 프로그램 아이콘을 클릭한 다음 크롬에서 검사할 페이지를 엽니다.
+Adobe Experience Cloud Debugger를 실행하려면 확장 프로그램 모음에서 확장 프로그램 아이콘을 클릭한 다음 Chrome에서 검사할 페이지를 엽니다.
 
 ![](assets/start-icon.jpg)
 
@@ -32,13 +32,13 @@ Adobe Experience Cloud 디버거를 실행하려면 확장 도구 모음에서 �
 
 ![](assets/summary-target2.jpg)
 
-## Adobe Experience Platform 감사기에서 감사 실행 {#section-82bc57440406461ebf27a16855b71655}
+## Adobe Experience Platform Auditor에서 감사 실행 {#section-82bc57440406461ebf27a16855b71655}
 
-Platform Auditor를 사용하여 페이지에서 일련의 감사를 실행할 수 있습니다. To run Platform Auditor, click **[!UICONTROL Auditor]** in the top menu, then click **[!UICONTROL Audit Page Now]**. To open Platform Auditor, click **[!UICONTROL Run Multi-Page Audit Now]**.
+Platform Auditor를 사용하여 페이지에서 일련의 감사를 실행할 수 있습니다. Platform Auditor를 실행하려면 상단 메뉴에서 **[!UICONTROL Auditor]**&#x200B;를 클릭한 다음 **[!UICONTROL Audit Page Now]**&#x200B;를 클릭합니다. Platform Auditor를 열려면 **[!UICONTROL Run Multi-Page Audit Now]**&#x200B;를 클릭합니다.
 
-## Information shown in Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Experience Cloud Debugger에 표시된 정보 {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
-Experience Cloud Debugger은 각 솔루션에 대해 다음 정보를 보여줍니다.
+Experience Cloud Debugger에는 각 솔루션에 대한 다음 정보가 표시됩니다.
 
 **페이지 정보**
 
@@ -111,7 +111,7 @@ Experience Cloud Debugger은 각 솔루션에 대해 다음 정보를 보여줍�
  <tbody> 
   <tr> 
    <td colname="col1"> <p>이름 </p> </td> 
-   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
+   <td colname="col2"> <p>Platform Launch <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> 속성</a> 이름입니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>버전 </p> </td> 
@@ -119,15 +119,15 @@ Experience Cloud Debugger은 각 솔루션에 대해 다음 정보를 보여줍�
   </tr> 
   <tr> 
    <td colname="col1"> <p>빌드 날짜 </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Platform Launch <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/reference/publish/libraries.html" format="https" scope="external"> 라이브러리</a> 빌드 날짜입니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>환경 </p> </td> 
-   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
+   <td colname="col2"> <p>Platform Launch 라이브러리에서 사용하는 <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/reference/publish/environments.html" format="https" scope="external"> 환경</a>입니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>스크립트 디렉토리 </p> </td> 
-   <td colname="col2"> <p>플랫폼 실행 스크립트가 저장되는 디렉토리 </p> </td> 
+   <td colname="col2"> <p>Platform Launch 스크립트가 저장되는 디렉토리입니다. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -146,11 +146,11 @@ Experience Cloud Debugger은 각 솔루션에 대해 다음 정보를 보여줍�
   </tr> 
   <tr> 
    <td colname="col1"> <p>빌드 날짜 </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/ko-KR/dtm/using/library-management.html" format="html" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Platform Launch <a href="https://docs.adobe.com/content/help/ko-KR/dtm/using/library-management.html" format="html" scope="external"> 라이브러리</a> 빌드 날짜입니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>환경 </p> </td> 
-   <td colname="col2"> <p>Launch 라이브러리에서 사용하는 환경입니다. </p> </td> 
+   <td colname="col2"> <p>DTM 라이브러리에서 사용하는 환경입니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>스크립트 디렉토리 </p> </td> 
