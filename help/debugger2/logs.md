@@ -5,11 +5,11 @@ seo-description: Experience Platform Debugger 로그 화면
 seo-title: 로그
 title: 로그
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '157'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 87%
 >
 >Adobe Experience Platform Debugger는 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
-[로그] 화면에서는 DTM, Adobe Experience Platform Launch 및 Adobe Experience Platform 웹 SDK 구현에 관련된 정보를 제공합니다. 이 정보를 표시하기 위해 DTM용 콘솔 디버깅 도구를 활성화하지 않아도 됩니다. 관련된 도구를 통해 구현된 솔루션별로 필터링할 수 있습니다.
+로그 화면에서는 DTM, Adobe Experience Platform Launch 및 Adobe Experience Platform 웹 SDK 구현에 관련된 정보를 제공합니다. 이 정보를 표시하기 위해 DTM용 콘솔 디버깅 도구를 활성화하지 않아도 됩니다. 관련된 도구를 통해 구현된 솔루션별로 필터링할 수 있습니다.
 
 ![](assets/logs.jpg)
 
