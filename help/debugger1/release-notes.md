@@ -5,11 +5,11 @@ seo-description: Experience Cloud Debugger용 릴리스 노트
 seo-title: 릴리스 노트
 title: 릴리스 노트
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '723'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -50,12 +50,12 @@ ht-degree: 85%
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Adobe Experience Platform 감사 테스트 </p> </td> 
-   <td colname="col2"> <p> Experience Cloud Debugger에 <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> 플랫폼 감사자 테스트</a> 추가 </p> </td> 
+   <td colname="col1"> <p>Adobe Experience Platform Auditor 테스트 </p> </td> 
+   <td colname="col2"> <p> Experience Cloud Debugger에 추가된 <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">Platform Auditor 테스트</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>이제 Experience Cloud Debugger에 AAM 응답 표시 </p> </td> 
+   <td colname="col2"> <p>이제 Experience Cloud Debugger에 AAM 응답이 표시됩니다. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -96,7 +96,7 @@ ht-degree: 85%
 
 * 사용자 인터페이스가 다른 포함 코드에 매핑되지 않은 경우에도 매핑된 것처럼 보이는 동적으로 Launch 삽입의 문제가 해결되었습니다.
 * 잘못된 URL이 계속 표시되는 동적으로 Launch 삽입의 문제가 해결되었습니다.
-* Experience Cloud Debugger 창을 닫아도 Experience Cloud Debugger이 임베드 코드를 계속 바꾸는 문제가 해결되었습니다.
+* Experience Cloud Debugger 창을 닫아도 Experience Cloud Debugger가 포함 코드를 계속 바꾸는 문제가 해결되었습니다.
 
 ## 버전 0.0.806 2018년 9월 10일 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
@@ -116,7 +116,7 @@ ht-degree: 85%
   </tr> 
   <tr> 
    <td colname="col1"> <p>동적으로 Launch 삽입 </p> </td> 
-   <td colname="col2"> <p>도구 탭에서 모든 페이지에 Adobe Experience Platform Launch을 동적으로 삽입하여 플랫폼 론치가 설치되지 않은 페이지에서 어떤 것을 테스트할 수 있습니다. </p> </td> 
+   <td colname="col2"> <p>도구 탭에서 페이지에 Adobe Experience Platform Launch를 동적으로 삽입하여 Platform Launch가 설치되어 있지 않은 페이지에서 테스트할 수 있습니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Target 개선 사항 </p> </td> 
@@ -139,7 +139,7 @@ ht-degree: 85%
 * Experience Cloud 탭이 업데이트되지 않는 문제가 해결되었습니다.
 
 * Media Optimizer가 현재 Advertising Cloud 이름이 아닌 네트워크 탭의 솔루션 행에 표시되는 문제가 해결되었습니다.
-* Experience Cloud Debugger이 모든 페이지에서 _satellite를 주입하는 문제를 해결했습니다.
+* Experience Cloud Debugger가 모든 페이지에 _satellite를 삽입하는 문제가 해결되었습니다.
 
 ## 버전 0.0.803, 2018년 8월 10일 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
@@ -158,8 +158,8 @@ ht-degree: 85%
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>도구 탭의 플랫폼 감사자 링크 </p> </td> 
-   <td colname="col2"> <p>Experience Cloud Debugger에서 플랫폼 감사기에 대한 링크를 추가했습니다. </p> </td> 
+   <td colname="col1"> <p>도구 탭의 Platform Auditor 링크 </p> </td> 
+   <td colname="col2"> <p>Experience Cloud Debugger에서 Platform Auditor에 대한 링크를 추가했습니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>축소된 탭 </p> </td> 
