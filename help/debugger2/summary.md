@@ -5,11 +5,11 @@ seo-description: Experience Platform Debugger 요약 화면
 seo-title: 요약 화면
 title: 요약 화면
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '957'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 92%
 >
 >Adobe Experience Platform Debugger는 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
-Adobe Experience Platform 디버거를 실행하려면 브라우저 모음에서 아이콘을 클릭한 다음 브라우저에서 검사할 페이지를 엽니다.
+Adobe Experience Platform Debugger를 실행하려면 브라우저 표시줄에서 아이콘을 클릭한 다음 브라우저에서 검사할 페이지를 엽니다.
 
 ![](assets/start-icon.jpg)
 
@@ -86,7 +86,7 @@ Experience Platform Debugger에는 각 솔루션에 대한 다음 정보가 표�
  <tbody> 
   <tr> 
    <td colname="col1"> <p>이름 </p> </td> 
-   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
+   <td colname="col2"> <p>Platform Launch <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> 속성</a> 이름입니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>버전 </p> </td> 
@@ -94,11 +94,11 @@ Experience Platform Debugger에는 각 솔루션에 대한 다음 정보가 표�
   </tr> 
   <tr> 
    <td colname="col1"> <p>빌드 날짜 </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Platform Launch <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/reference/publish/libraries.html" format="https" scope="external"> 라이브러리</a> 빌드 날짜입니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>환경 </p> </td> 
-   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
+   <td colname="col2"> <p>Platform Launch 라이브러리에서 사용하는 <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/reference/publish/environments.html" format="https" scope="external"> 환경</a>입니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>확장 </p> </td> 
@@ -113,7 +113,7 @@ Experience Platform Debugger에는 각 솔루션에 대한 다음 정보가 표�
  <tbody> 
   <tr> 
    <td colname="col1"> <p>라이브러리 버전 </p> </td> 
-   <td colname="col2"> <p>Adobe Experience Platform 웹 SDK <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">라이브러리 버전 수</a> </p> </td> 
+   <td colname="col2"> <p>Adobe Experience Platform 웹 SDK <a href="https://docs.adobe.com/content/help/ko-KR/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">라이브러리 버전</a>의 번호 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>네임스페이스</p> </td> 
@@ -121,7 +121,7 @@ Experience Platform Debugger에는 각 솔루션에 대한 다음 정보가 표�
   </tr> 
   <tr> 
    <td colname="col1"> <p>속성 ID </p> </td> 
-   <td colname="col2"> <p>확장명에 지정된 플랫폼 실행 속성의 이름 </p> </td> 
+   <td colname="col2"> <p>확장 프로그램에 지정된 Platform Launch 속성의 이름 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Edge 도메인 </p> </td> 
