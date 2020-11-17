@@ -5,11 +5,11 @@ seo-description: Adobe Experience Cloud Debugger Chrome 확장 프로그램에 �
 seo-title: Adobe Experience Cloud Debugger Chrome 확장 프로그램
 title: Adobe Experience Cloud Debugger 확장 프로그램
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 85%
 
 다음과 같은 작업 과정에 대한 다른 Adobe 활성화 솔루션으로 Adobe Experience Cloud Debugger 확장 프로그램을 사용합니다.
 
-1. Use [Adobe Experience Platform Launch](https://docs.adobe.com/content/help/ko-KR/launch/using/overview.html) or [DTM](https://docs.adobe.com/content/help/ko-KR/dtm/using/dtm-home.html) to insert code that activates [Adobe Experience Cloud](https://docs.adobe.com/content/help/ko-KR/experience-cloud/user-guides/home.html) solutions on your pages.
+1. [Adobe Experience Platform Launch](https://docs.adobe.com/content/help/ko-KR/launch/using/overview.html) 또는 [DTM](https://docs.adobe.com/content/help/ko-KR/dtm/using/dtm-home.html)을 사용하여 페이지에서 [Adobe Experience Cloud](https://docs.adobe.com/content/help/ko-KR/experience-cloud/user-guides/home.html) 솔루션을 활성화하는 코드를 삽입합니다.
 
-1. Use [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/ko-KR/auditor/using/overview.html) to test your implementations.
+1. [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/ko-KR/auditor/using/overview.html)를 사용하여 구현을 테스트합니다.
 1. Adobe Experience Cloud Debugger 확장 프로그램을 사용하여 감사에서 발견한 문제를 디버깅하거나 구현에 대한 다른 정보를 조사합니다.
 
 위의 단계는 반드시 해당 순서대로 수행되는 것은 아니지만, 일반적인 프로세스입니다.
@@ -33,5 +33,5 @@ ht-degree: 85%
 
 디버거를 사용하여 Experience Cloud 솔루션의 구현 방법을 이해하는 데 도움이 되는 정보를 수집합니다. 예:
 
-* **플랫폼 실행:** 페이지에 배포되는 속성, 환경, 빌드를 확인합니다.
+* **Platform Launch:** 페이지에 배포되는 속성, 환경, 빌드를 확인합니다.
 * **Target:** 자격이 되거나 되지 않는 활동 및 그 이유를 확인합니다.
