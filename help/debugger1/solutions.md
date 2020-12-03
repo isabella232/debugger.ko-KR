@@ -5,9 +5,9 @@ seo-description: Adobe Debugger의 솔루션 탭 사용
 seo-title: Adobe Debugger의 솔루션 탭
 title: 솔루션 탭
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 100%
 
@@ -88,11 +88,11 @@ Mbox 추적을 활성화하려면 Experience Cloud에 인증된 Chrome 탭이 �
 
 다음 비디오는 일반적인 Target 기능을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
 
 다음 비디오는 Mbox 추적을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
