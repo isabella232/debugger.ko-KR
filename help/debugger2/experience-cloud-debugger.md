@@ -5,9 +5,9 @@ seo-description: Adobe Experience Platform Debugger Chrome 및 Firefox 확장 �
 seo-title: Adobe Experience Platform Debugger Chrome 및 Firefox 확장 프로그램
 title: Adobe Experience Platform Debugger 확장 프로그램
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 100%
 
@@ -42,4 +42,4 @@ Platform Debugger를 사용하여 Experience Cloud 솔루션의 구현 방법을
 
 ## 비디오 자습서
 
->[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
