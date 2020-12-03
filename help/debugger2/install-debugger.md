@@ -5,9 +5,9 @@ seo-description: Experience Platform Debugger 설치 방법
 seo-title: ' Experience Platform Debugger 설치'
 title: ' Experience Platform Debugger 설치'
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 100%
 
