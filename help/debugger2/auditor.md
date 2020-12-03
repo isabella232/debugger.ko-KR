@@ -3,9 +3,9 @@ description: Adobe Experience Platform Auditor 정보
 keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
 seo-description: Adobe Experience Platform Auditor 정보
 title: Auditor
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
