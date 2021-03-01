@@ -1,6 +1,6 @@
 ---
 description: Experience Platform Debugger 릴리스 노트
-keywords: debugger;experience Platform Debugger extension;chrome;extension;release notes
+keywords: 디버거;경험 플랫폼 디버거 확장;크롬;확장;릴리스 노트
 seo-description: Experience Platform Debugger 릴리스 노트
 seo-title: 릴리스 노트
 title: 릴리스 노트
@@ -8,8 +8,8 @@ uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '35'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
