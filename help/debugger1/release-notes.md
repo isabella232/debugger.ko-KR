@@ -1,6 +1,6 @@
 ---
 description: Experience Cloud Debugger용 릴리스 노트
-keywords: debugger;experience cloud debugger extension;chrome;extension;release notes
+keywords: 디버거;experience cloud debugger 확장 프로그램;chrome;확장 프로그램;릴리스 노트
 seo-description: Experience Cloud Debugger용 릴리스 노트
 seo-title: 릴리스 노트
 title: 릴리스 노트
@@ -8,7 +8,7 @@ uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '732'
 ht-degree: 100%
 
 ---
