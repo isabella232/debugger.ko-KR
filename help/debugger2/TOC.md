@@ -1,5 +1,5 @@
 ---
-cloud: experience-platform
+cloud: Experience Platform
 product: experience platform
 sub-product: Experience Platform Debugger
 solution: Experience Platform, Data Collection
@@ -9,10 +9,10 @@ user-guide-description: 웹 페이지에서 Experience Platform 구현에 문제
 breadcrumb-title: Platform Debugger 안내서
 index: true
 translation-type: tm+mt
-source-git-commit: 24d9c114cde4ffd5cc7c64b6a66f778d3ce6f7d0
+source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '47'
+ht-degree: 100%
 
 ---
 
