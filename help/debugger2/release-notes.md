@@ -1,22 +1,22 @@
 ---
-description: Experience Platform Debugger 릴리스 노트
-keywords: 디버거;경험 플랫폼 디버거 확장;크롬;확장;릴리스 노트
-seo-description: Experience Platform Debugger 릴리스 노트
-seo-title: 릴리스 노트
-title: 릴리스 노트
+description: Experience Platform Debugger 릴리스 정보
+keywords: debugger;experience Platform Debugger 확장 프로그램;chrome;확장 프로그램;릴리스 정보
+seo-description: Experience Platform Debugger 릴리스 정보
+seo-title: 릴리스 정보
+title: 릴리스 정보
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '44'
+ht-degree: 100%
 
 ---
 
+# 릴리스 정보 {#release-notes}
 
-# 릴리스 노트 {#release-notes}
-
-## 릴리스 노트 {#topic-a92c3eb799b74e7fa404af8af5efb215}
+## 릴리스 정보 {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
 >[!IMPORTANT]
 >
