@@ -1,22 +1,22 @@
 ---
-description: Experience Cloud Debugger용 릴리스 노트
-keywords: 디버거;experience cloud debugger 확장 프로그램;chrome;확장 프로그램;릴리스 노트
-seo-description: Experience Cloud Debugger용 릴리스 노트
-seo-title: 릴리스 노트
-title: 릴리스 노트
+description: Experience Cloud Debugger에 대한 릴리스 정보
+keywords: debugger;experience cloud debugger 확장 프로그램;chrome;확장 프로그램;릴리스 정보
+seo-description: Experience Cloud Debugger에 대한 릴리스 정보
+seo-title: 릴리스 정보
+title: 릴리스 정보
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
 source-wordcount: '732'
 ht-degree: 100%
 
 ---
 
+# 릴리스 정보 {#release-notes}
 
-# 릴리스 노트 {#release-notes}
-
-## 릴리스 노트 {#topic-a92c3eb799b74e7fa404af8af5efb215}
+## 릴리스 정보 {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
 ## 버전 0.0.817, 2019년 5월 17일 {#topic-5dc9026cac864330b04361b1da8309a8}
 
@@ -80,8 +80,8 @@ ht-degree: 100%
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>포함 코드 함수 </p> </td> 
-   <td colname="col2"> <p> 바꾸기 및 삽입 포함 코드 함수를 나눕니다. </p> </td> 
+   <td colname="col1"> <p>임베드 코드 함수 </p> </td> 
+   <td colname="col2"> <p> 바꾸기 및 삽입 임베드 코드 함수를 나눕니다. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -94,9 +94,9 @@ ht-degree: 100%
 
 * AAM 탭에서 AAM DIL 이벤트가 캡처되지 않는 문제가 해결되었습니다.
 
-* 사용자 인터페이스가 다른 포함 코드에 매핑되지 않은 경우에도 매핑된 것처럼 보이는 동적으로 Launch 삽입의 문제가 해결되었습니다.
+* 사용자 인터페이스가 다른 임베드 코드에 매핑되지 않은 경우에도 매핑된 것처럼 보이는 동적으로 Launch 삽입의 문제가 해결되었습니다.
 * 잘못된 URL이 계속 표시되는 동적으로 Launch 삽입의 문제가 해결되었습니다.
-* Experience Cloud Debugger 창을 닫아도 Experience Cloud Debugger가 포함 코드를 계속 바꾸는 문제가 해결되었습니다.
+* Experience Cloud Debugger 창을 닫아도 Experience Cloud Debugger가 임베드 코드를 계속 바꾸는 문제가 해결되었습니다.
 
 ## 버전 0.0.806 2018년 9월 10일 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
@@ -222,7 +222,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td colname="col1"> <p>바닥글의 도움말 링크 업데이트 </p> </td> 
-   <td colname="col2"> <p>바닥글의 도움말 링크를 <a href="https://docs.adobe.com/content/help/ko-KR/debugger/using/experience-cloud-debugger.html" format="https" scope="external">https://docs.adobe.com/content/help/ko-K/debugger/using/experience-cloud-debugger.html</a>로 업데이트 </p> </td> 
+   <td colname="col2"> <p>바닥글의 도움말 링크를 <a href="https://docs.adobe.com/content/help/ko/debugger/using/experience-cloud-debugger.html" format="https" scope="external">https://docs.adobe.com/content/help/ko/debugger/using/experience-cloud-debugger.html</a>로 업데이트 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -262,4 +262,3 @@ ht-degree: 100%
   </tr> 
  </tbody> 
 </table>
-
