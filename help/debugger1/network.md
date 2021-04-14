@@ -1,18 +1,18 @@
 ---
 description: Experience Cloud Debugger 네트워크 정보 화면
-keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
+keywords: 디버거;experience cloud debugger 확장 프로그램;chrome;확장 프로그램;네트워크;정보
 seo-description: Experience Cloud Debugger 네트워크 정보 화면
 seo-title: 네트워크 정보
 title: 네트워크 정보
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
-source-wordcount: '217'
+exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '226'
 ht-degree: 100%
 
 ---
-
 
 # 네트워크 정보{#network-information}
 
@@ -41,4 +41,3 @@ ht-degree: 100%
 각 열 맨 위에 있는 아이콘을 사용하여 서버 호출 URL을 클립보드에 복사합니다. 이 URL을 참조나 디버깅 목적으로 다른 문서에 붙여넣을 수 있습니다.
 
 ![](assets/copy.jpg)
-
