@@ -1,18 +1,18 @@
 ---
 description: Experience Platform Debugger는 웹 페이지를 검사하여 Experience Cloud 솔루션 구현 방법과 관련된 문제를 찾는 데 도움을 줍니다.
-keywords: debugger;experience Platform Debugger extension;chrome;extension
+keywords: debugger;experience Platform Debugger 확장 프로그램;chrome;확장 프로그램
 seo-description: Adobe Experience Platform Debugger Chrome 및 Firefox 확장 프로그램에 대한 기술 문서 - 웹 페이지를 살펴보고 Experience Cloud 솔루션 구현과 관련된 문제를 파악합니다.
 seo-title: Adobe Experience Platform Debugger Chrome 및 Firefox 확장 프로그램
 title: Adobe Experience Platform Debugger 확장 프로그램
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
-source-wordcount: '307'
+exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '314'
 ht-degree: 100%
 
 ---
-
 
 # (베타) Adobe Experience Platform Debugger {#adobe-experience-platform-debugger}
 
@@ -24,9 +24,9 @@ ht-degree: 100%
 
 다음과 같은 작업 과정에 대한 다른 Adobe 활성화 솔루션으로 Platform Debugger를 사용합니다.
 
-1. [Launch](https://docs.adobe.com/content/help/ko-KR/launch/using/overview.html) 또는 [DTM](https://docs.adobe.com/content/help/ko-KR/dtm/using/dtm-home.html)을 사용하여 페이지에서 [Adobe Experience Cloud](https://docs.adobe.com/content/help/ko-KR/core-services/interface/experience-cloud.html) 솔루션을 활성화하는 코드를 삽입합니다.
+1. [Launch](https://docs.adobe.com/content/help/ko/launch/using/overview.html) 또는 [DTM](https://docs.adobe.com/content/help/ko/dtm/using/dtm-home.html)을 사용하여 페이지에서 [Adobe Experience Cloud](https://docs.adobe.com/content/help/ko/core-services/interface/experience-cloud.html) 솔루션을 활성화하는 코드를 삽입합니다.
 
-1. [Adobe Experience Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/)를 사용하여 구현을 테스트합니다.
+1. [Adobe Experience Platform Auditor](https://experiencecloud.adobe.com/resources/help/ko_KR/auditor/)를 사용하여 구현을 테스트합니다.
 1. Adobe Experience Platform Debugger를 사용하여 감사에서 발견한 문제를 디버깅하거나 구현에 대한 다른 정보를 검사합니다.
 
 위의 단계는 반드시 해당 순서대로 수행되는 것은 아니지만, 일반적인 프로세스입니다.
@@ -40,6 +40,6 @@ Platform Debugger를 사용하여 Experience Cloud 솔루션의 구현 방법을
 * **Adobe Experience Platform Launch:** 페이지에 배포되는 속성, 환경, 빌드를 확인합니다.
 * **Target:** 자격이 되거나 되지 않는 활동 및 그 이유를 확인합니다.
 
-## 비디오 자습서
+## 비디오 튜토리얼
 
 >[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
