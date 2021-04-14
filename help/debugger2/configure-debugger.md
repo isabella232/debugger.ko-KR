@@ -1,17 +1,17 @@
 ---
 description: Experience Platform Debugger 구성 방법
-keywords: debugger;experience platform debugger extension;chrome;extension;configure
+keywords: debugger;experience platform debugger 확장 프로그램;chrome;확장 프로그램;구성
 seo-description: Experience Platform Debugger 구성 방법
 seo-title: Experience Platform Debugger 구성
 title: Experience Platform Debugger 구성
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
-source-wordcount: '170'
+exl-id: ddc90b52-56d4-4efc-aad7-5a2c430e7dfe
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '178'
 ht-degree: 100%
 
 ---
-
 
 # Debugger 구성
 
@@ -33,7 +33,7 @@ Platform Debugger가 열린 후 **[!UICONTROL Settings]**&#x200B;으로 이동�
 
 ## 하나의 페이지에서 Experience Platform Debugger 잠금
 
-사이트의 페이지를 변경하면 Experience Platform Debugger 창이 업데이트되어 해당 페이지에 대한 정보를 보여줍니다. 연결된 페이지의 이름이 화면 맨 아래에 표시됩니다. 한 페이지에서 Platform Debugger를 잠금으로 유지하려면 Experience Platform Debugger 창의 오른쪽 아래 모서리에 있는 **[!UICONTROL Lock]**&#x200B;을 클릭합니다.
+사이트의 페이지를 변경하면 Experience Platform Debugger 창이 업데이트되어 해당 페이지에 대한 정보를 보여 줍니다. 연결된 페이지의 이름이 화면 맨 아래에 표시됩니다. 한 페이지에서 Platform Debugger를 잠금으로 유지하려면 Experience Platform Debugger 창의 오른쪽 하단에 있는 **[!UICONTROL Lock]**&#x200B;을 클릭합니다.
 
 ![](assets/lock.jpg)
 
