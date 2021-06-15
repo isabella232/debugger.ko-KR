@@ -2,14 +2,13 @@
 cloud: Experience Cloud
 product: experience cloud
 sub-product: experience cloud debugger
-solution: Experience Cloud
+solution: Experience Cloud, Debugger
 audience: end-user
 user-guide-title: Experience Cloud Debugger 도움말
 user-guide-description: Experience Cloud 솔루션 구현과 관련한 문제가 있는지에 대해 웹 페이지를 검사합니다.
 breadcrumb-title: Debugger 안내서
-translation-type: ht
-source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
-workflow-type: ht
+source-git-commit: b2298a5923c246fb6394af6bee76a8f24ea5ddd9
+workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 100%
 
@@ -19,7 +18,7 @@ ht-degree: 100%
 # Experience Cloud Debugger 도움말 {#using}
 
 + [Adobe Experience Cloud Debugger 확장 프로그램](experience-cloud-debugger.md)
-+ [릴리스 노트](release-notes.md)
++ [릴리스 정보](release-notes.md)
 + [Experience Cloud Debugger 설치](install-debugger.md)
 + [요약 화면](run-debugger.md)
 + [네트워크 정보](network.md)
