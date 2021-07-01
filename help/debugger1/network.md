@@ -6,17 +6,16 @@ seo-title: 네트워크 정보
 title: 네트워크 정보
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
-translation-type: ht
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
-workflow-type: ht
-source-wordcount: '226'
+workflow-type: tm+mt
+source-wordcount: '228'
 ht-degree: 100%
 
 ---
 
 # 네트워크 정보{#network-information}
 
-네트워크 정보를 보려면 **[!UICONTROL Network]**&#x200B;를 클릭합니다.
+네트워크 정보를 보려면 **[!UICONTROL 네트워크]**&#x200B;를 클릭합니다.
 
 네트워크 화면은 페이지에서 수행된 모든 Adobe Experience Cloud 솔루션 호출을 집계하여 왼쪽에서 오른쪽으로 표시합니다. 표준 매개 변수는 친숙한 이름으로 자동으로 레이블이 지정되며, 동일한 역할에 따라 일반 매개 변수를 그룹화하여 정렬됩니다.
 
@@ -28,7 +27,7 @@ ht-degree: 100%
 >
 >현재 솔루션 호출에서 전달된 모든 매개 변수(예: Analytics 컨텍스트 변수, Target 사용자 지정 매개 변수 또는 Experience Cloud ID 서비스 고객 ID)가 네트워크 화면에 표시되는 것은 아닙니다.
 
-모든 정보를 보려면 **[!UICONTROL All]**&#x200B;을 선택합니다.
+모든 정보를 보려면 **[!UICONTROL 모두]**&#x200B;를 선택합니다.
 
 솔루션별로 정보를 필터링할 수도 있습니다. 보려는 솔루션을 선택합니다. 여러 솔루션을 동시에 볼 수 있습니다. 선택한 솔루션 필터가 강조 표시됩니다.
 
