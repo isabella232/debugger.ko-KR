@@ -5,11 +5,10 @@ seo-description: Experience Platform Debugger 이벤트 화면
 seo-title: 이벤트
 title: 이벤트
 exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
-translation-type: ht
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
-workflow-type: ht
-source-wordcount: '179'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '181'
+ht-degree: 92%
 
 ---
 
@@ -40,10 +39,10 @@ ht-degree: 100%
 
    ![](assets/event-datalayer.jpg)
 
-1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
 데이터 레이어 변경 세부 사항에 삭제되거나 추가된 모든 내용이 표시됩니다. 데이터 레이어를 자세히 살펴보려면 **{}** 기호를 클릭합니다.
 
 ## 이벤트 정보 다운로드
 
-페이지 호출에 대한 정보를 보여 주는 Excel 파일을 다운로드하려면 **[!UICONTROL Download]**&#x200B;를 클릭합니다.
+페이지 호출에 대한 정보를 보여주는 Excel 파일을 다운로드하려면 **[!UICONTROL 다운로드]**&#x200B;를 클릭하십시오.
