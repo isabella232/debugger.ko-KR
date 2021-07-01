@@ -19,7 +19,7 @@ ht-degree: 92%
 
 다음과 같은 작업 과정에 대한 다른 Adobe 활성화 솔루션으로 Adobe Experience Cloud Debugger 확장 프로그램을 사용합니다.
 
-1. 페이지에서 [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) 솔루션을 활성화하는 코드를 삽입하려면 [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html)을 사용하십시오.
+1. 페이지에서 [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) 솔루션을 활성화하는 코드를 삽입하려면 [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=ko-KR)을 사용하십시오.
 
 1. [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/ko/auditor/using/overview.html)를 사용하여 구현을 테스트합니다.
 1. Adobe Experience Cloud Debugger 확장 프로그램을 사용하여 감사에서 발견한 문제를 디버깅하거나 구현에 대한 다른 정보를 조사합니다.
