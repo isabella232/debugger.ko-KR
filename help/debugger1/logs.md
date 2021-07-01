@@ -6,10 +6,9 @@ seo-title: 로그
 title: 로그
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 exl-id: 6d015129-8ac3-411e-829c-8f58ec1fdde3
-translation-type: ht
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
-workflow-type: ht
-source-wordcount: '100'
+workflow-type: tm+mt
+source-wordcount: '102'
 ht-degree: 100%
 
 ---
@@ -25,4 +24,4 @@ ht-degree: 100%
 
 ![](assets/logs.jpg)
 
-일부 DTM 로그 항목에는 메시지에 코드 표시 옵션이 포함되어 있습니다. 규칙 실행 여부를 결정하는 조건부 코드를 보려면 **[!UICONTROL Show Code]**&#x200B;를 클릭합니다.
+일부 DTM 로그 항목에는 메시지에 코드 표시 옵션이 포함되어 있습니다. 규칙 실행 여부를 결정하는 조건부 코드를 표시하려면 **[!UICONTROL 코드 표시]**&#x200B;를 클릭합니다.
