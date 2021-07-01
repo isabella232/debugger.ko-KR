@@ -23,7 +23,7 @@ ht-degree: 100%
 
 다음과 같은 작업 과정에 대한 다른 Adobe 활성화 솔루션으로 Platform Debugger를 사용합니다.
 
-1. [Launch](https://experienceleague.adobe.com/docs/launch/using/home.html) 또는 [DTM](https://docs.adobe.com/content/help/ko/dtm/using/dtm-home.html)을 사용하여 페이지에서 [Adobe Experience Cloud](https://docs.adobe.com/content/help/ko/core-services/interface/experience-cloud.html) 솔루션을 활성화하는 코드를 삽입합니다.
+1. [Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=ko-KR) 또는 [DTM](https://docs.adobe.com/content/help/ko/dtm/using/dtm-home.html)을 사용하여 페이지에서 [Adobe Experience Cloud](https://docs.adobe.com/content/help/ko/core-services/interface/experience-cloud.html) 솔루션을 활성화하는 코드를 삽입합니다.
 
 1. [Adobe Experience Platform Auditor](https://experiencecloud.adobe.com/resources/help/ko_KR/auditor/)를 사용하여 구현을 테스트합니다.
 1. Adobe Experience Platform Debugger를 사용하여 감사에서 발견한 문제를 디버깅하거나 구현에 대한 다른 정보를 검사합니다.
