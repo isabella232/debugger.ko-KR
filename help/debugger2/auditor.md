@@ -4,15 +4,14 @@ keywords: debugger;experience platform debugger 확장 프로그램;chrome;확�
 seo-description: Adobe Experience Platform Auditor 정보
 title: Auditor
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-translation-type: ht
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
-workflow-type: ht
-source-wordcount: '91'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 89%
 
 ---
 
-# Auditor {#auditor}
+# 감사기 {#auditor}
 
 >[!IMPORTANT]
 >
@@ -20,8 +19,8 @@ ht-degree: 100%
 
 Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/ko/auditor/using/overview.html)를 사용하여 Auditor 화면에서 페이지에 대한 일련의 감사를 실행할 수 있습니다.
 
-1. 왼쪽 탐색 메뉴에서 **[!UICONTROL Auditor]**&#x200B;를 클릭합니다.
-1. **[!UICONTROL Run Auditor Tests]**&#x200B;를 클릭합니다.
+1. 왼쪽 탐색 메뉴에서 **[!UICONTROL Auditor]** 를 클릭합니다.
+1. **[!UICONTROL Auditor 테스트 실행]**&#x200B;을 클릭합니다.
 
 테스트 결과가 표시됩니다.
 
