@@ -6,11 +6,10 @@ seo-title: 네트워크 정보
 title: 네트워크 정보
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: ed0579ef-ec26-43df-9453-a395c105038a
-translation-type: ht
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
-workflow-type: ht
-source-wordcount: '236'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '241'
+ht-degree: 91%
 
 ---
 
@@ -20,7 +19,7 @@ ht-degree: 100%
 >
 >Adobe Experience Platform Debugger는 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
 
-네트워크 정보를 보려면 **[!UICONTROL Network]**&#x200B;를 클릭합니다.
+네트워크 정보를 보려면 **[!UICONTROL 네트워크]**&#x200B;를 클릭합니다.
 
 네트워크 화면은 페이지에서 수행된 모든 Adobe Experience Cloud 솔루션 호출을 집계하여 왼쪽에서 오른쪽으로 표시합니다. 표준 매개 변수는 친숙한 이름으로 자동으로 레이블이 지정되며, 동일한 역할에 따라 일반 매개 변수를 그룹화하여 정렬됩니다.
 
@@ -36,7 +35,7 @@ ht-degree: 100%
 
 ![](assets/network-analytics.jpg)
 
-모든 솔루션이 표시되도록 돌아가려면 **[!UICONTROL Network]**&#x200B;를 클릭합니다.
+모든 솔루션이 표시되도록 돌아가려면 **[!UICONTROL 를 클릭합니다.네트워크]**
 
 확장된 보기로 전환하려면 네트워크 보기에서 항목을 클릭합니다. 확장된 보기 창에서 표시된 정보를 클립보드에 복사할 수 있습니다.
 
@@ -46,6 +45,6 @@ ht-degree: 100%
 
 ![](assets/copy.jpg)-->
 
-목록을 지우려면 **[!UICONTROL Remove Events]**&#x200B;를 클릭합니다.
+목록을 지우려면 **[!UICONTROL 이벤트 제거]**&#x200B;를 클릭합니다.
 
-이 화면의 정보가 포함된 Excel 파일을 다운로드하려면 **[!UICONTROL Download]**&#x200B;를 클릭합니다.
+이 화면의 정보가 포함된 Excel 파일을 다운로드하려면 **[!UICONTROL 다운로드]**&#x200B;를 클릭합니다.
