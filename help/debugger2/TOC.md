@@ -16,7 +16,7 @@ ht-degree: 100%
 ---
 
 
-# Experience Platform Debugger 도움말{#using-v2}
+# Experience Platform Debugger 도움말 {#using-v2}
 
 + [Adobe Experience Platform Debugger 확장 프로그램](experience-cloud-debugger.md)
 + [릴리스 정보](release-notes.md)
