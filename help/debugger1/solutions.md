@@ -6,11 +6,10 @@ seo-title: Adobe Debugger의 솔루션 탭
 title: 솔루션 탭
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
-translation-type: ht
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
-workflow-type: ht
-source-wordcount: '1085'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1102'
+ht-degree: 98%
 
 ---
 
@@ -44,7 +43,7 @@ Analytics 탭은 [Analytics](https://docs.adobe.com/content/help/ko/analytics/la
 
 **연결된 계정(기존)**
 
-**[!UICONTROL Link Account]**&#x200B;를 클릭한 다음 요청된 정보를 입력하여 Analytics 계정을 Platform Debugger에 연결합니다.
+**[!UICONTROL 계정 연결]**&#x200B;을 클릭한 다음 요청된 정보를 입력하여 Analytics 계정을 Platform Debugger에 연결합니다.
 
 >[!NOTE]
 >
@@ -64,13 +63,13 @@ Analytics 탭은 [Analytics](https://docs.adobe.com/content/help/ko/analytics/la
 
 Target 탭에서 [Target](https://docs.adobe.com/content/help/ko/target/using/target-home.html) 요청이나 [Mbox 추적](https://docs.adobe.com/content/help/ko/target/using/activities/troubleshoot-activities/content-trouble.html) 응답 세부 사항을 볼 수 있습니다.
 
-**[!UICONTROL Requests]**&#x200B;를 클릭한 다음 환경을 확장하여 타겟에 대한 정보를 봅니다.
+**[!UICONTROL 요청]**&#x200B;을 클릭한 다음 환경을 확장하여 Target에 대한 정보를 봅니다.
 
 ![](assets/target-requests.jpg)
 
-**[!UICONTROL Clear All Requests]**&#x200B;를 클릭하여 현재 표시된 요청을 제거합니다. 더 많은 요청이 있을 때마다 표시됩니다.
+현재 표시된 요청을 제거하려면 **[!UICONTROL 모든 요청 지우기]**&#x200B;를 클릭합니다. 더 많은 요청이 있을 때마다 표시됩니다.
 
-Target 필터를 사용하여 [Target 디버깅 목적을 위해 MBox 추적을 활성화](https://docs.adobe.com/content/help/ko/target/using/activities/troubleshoot-activities/content-trouble.html)할 수도 있습니다.
+Target 필터를 사용하여 [Target 디버깅 목적을 위해 MBox 추적을 활성화](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)할 수도 있습니다.
 
 Mbox 추적을 활성화하려면 Experience Cloud에 인증된 Chrome 탭이 열려 있어야 합니다. 활성화되어 있으면 Adobe Id 사용자 이름이 표시됩니다. 사용자 이름을 확장하여 액세스 권한이 있는 Experience Cloud 조직과 연결된 Target 클라이언트 코드를 표시합니다. Mbox 추적을 활성화할 클라이언트 코드를 클릭하고 녹색 확인 표시가 나타나는지 확인합니다. 이제 Mbox 추적 정보가 있는 모든 Target 요청이 클라이언트 코드로 그룹화되어 표시됩니다. Mbox 추적 정보를 탐색하려면 요청을 확장하여 탭을 확인합니다.
 
@@ -78,7 +77,7 @@ Mbox 추적을 활성화하려면 Experience Cloud에 인증된 Chrome 탭이 �
 
 * 요청
 
-   [Mbox 추적](https://docs.adobe.com/content/help/ko/target/using/activities/troubleshoot-activities/content-trouble.html)의 요청 탭은 기본 요청 탭과 유사합니다. 요청 헤더 외에 Target 요청에서 전달한 모든 매개 변수를 볼 수 있습니다.
+   [Mbox 추적](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)의 요청 탭은 기본 요청 탭과 유사합니다. 요청 헤더 외에 Target 요청에서 전달한 모든 매개 변수를 볼 수 있습니다.
 * 프로필
 
    프로필 스냅샷 섹션을 확장하여 Target 프로필 데이터베이스에서 방문자로 저장된 [프로필 정보](https://docs.adobe.com/content/help/ko/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html)를 봅니다. 모든 Mbox 내 및 스크립트 프로필은 물론 일부 시스템 프로필이 여기에 표시됩니다. 상태 열에는 이 요청의 범위 내에서 변경된 프로필과 요청이 프로필 시스템에 입력되기 전후의 값이 표시됩니다.
@@ -100,7 +99,7 @@ Mbox 추적을 활성화하려면 Experience Cloud에 인증된 Chrome 탭이 �
 
 ![](assets/audience-manager.jpg)
 
-**[!UICONTROL Clear All Events]**&#x200B;를 클릭하여 표시된 정보를 재설정합니다. 새 이벤트가 발생할 때 표시됩니다.
+**[!UICONTROL 모든 이벤트 지우기]**&#x200B;를 클릭하여 표시된 정보를 재설정합니다. 새 이벤트가 발생할 때 표시됩니다.
 
 **ID 동기화**
 
@@ -114,14 +113,14 @@ ID 동기화는 인바운드 비동기 데이터 전송 프로세스의 첫 번�
 
 Advertising Cloud 탭을 사용하여 Advertising Cloud 요청을 봅니다.
 
-**[!UICONTROL Requests]**&#x200B;를 클릭한 다음 환경을 확장하여 Advertising Cloud에 대한 정보를 봅니다.
+**[!UICONTROL 요청]**&#x200B;을 클릭한 다음 환경을 확장하여 Advertising Cloud에 대한 정보를 봅니다.
 
-**[!UICONTROL Clear All Requests]**&#x200B;를 클릭하여 현재 표시된 요청을 제거합니다. 더 많은 요청이 있을 때마다 표시됩니다.
+현재 표시된 요청을 제거하려면 **[!UICONTROL 모든 요청 지우기]**&#x200B;를 클릭합니다. 더 많은 요청이 있을 때마다 표시됩니다.
 
 ## Experience Cloud ID 서비스 {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 Experience Cloud ID 서비스 탭을 사용하여 [Experience Cloud ID 서비스](https://docs.adobe.com/content/help/ko/id-service/using/home.html) 요청을 봅니다.
 
-**[!UICONTROL Requests]**&#x200B;를 클릭한 다음 환경을 확장하여 Experience Cloud ID 서비스에 대한 정보를 봅니다.
+**[!UICONTROL 요청]**&#x200B;을 클릭한 다음 환경을 확장하여 Experience Cloud ID 서비스에 대한 정보를 봅니다.
 
-**[!UICONTROL Clear All Requests]**&#x200B;를 클릭하여 현재 표시된 요청을 제거합니다. 더 많은 요청이 있을 때마다 표시됩니다.
+현재 표시된 요청을 제거하려면 **[!UICONTROL 모든 요청 지우기]**&#x200B;를 클릭합니다. 더 많은 요청이 있을 때마다 표시됩니다.
