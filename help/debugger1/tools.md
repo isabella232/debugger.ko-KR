@@ -8,7 +8,7 @@ uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 exl-id: ad108515-030f-4790-a29c-70f82e58a55d
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '402'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ![](assets/tools.jpg)
 
-어떤 페이지에서든 Adobe Experience Platform Launch 또는 DTM을 동적으로 삽입하여 Platform Launch 또는 DTM이 설치되어 있지 않은 페이지에서 테스트해 볼 수 있습니다. **[!UICONTROL 포함 코드]** 아이콘을 클릭한 다음 [포함 코드](https://docs.adobe.com/content/help/ko/dtm/using/client-side/deployment.html)를 입력하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+어떤 페이지에서든 Adobe Experience Platform Launch 또는 DTM을 동적으로 삽입하여 Platform Launch 또는 DTM이 설치되어 있지 않은 페이지에서 테스트해 볼 수 있습니다. **[!UICONTROL Embed Code]** 아이콘을 클릭한 다음 [임베드 코드](https://docs.adobe.com/content/help/ko/dtm/using/client-side/deployment.html)를 입력하고 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
 ![](assets/tools-embedcode.jpg)
 
