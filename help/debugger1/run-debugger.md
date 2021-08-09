@@ -8,8 +8,8 @@ uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1080'
-ht-degree: 97%
+source-wordcount: '1069'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Experience Cloud 디버거 요약 화면이 표시됩니다.
 
 이 화면에는 페이지의 축소판뿐만 아니라 페이지의 URL과 제목이 표시됩니다. 또한 각 Adobe Experience Cloud 솔루션에 대한 정보가 표시됩니다. 표시되는 정보는 솔루션마다 다르지만, 일반적으로 솔루션 라이브러리 및 버전(예: &quot;AppMeasurement v2.9&quot;)과 계정 식별자(예: Analytics 보고서 세트 ID, Target 클라이언트 코드, Audience Manager 파트너 ID 등) 등의 정보를 포함합니다.
 
-창 위쪽에 있는 탭 옆의 파란색 숫자는 수행된 서버 호출 수를 나타냅니다. 각 탭 내에서 **[!UICONTROL 모든 요청 지우기]**&#x200B;를 클릭하여 이 수를 0으로 재설정할 수 있습니다.
+창 위쪽에 있는 탭 옆의 파란색 숫자는 수행된 서버 호출 수를 나타냅니다. 각 탭 내에서 **[!UICONTROL Clear All Requests]**&#x200B;를 클릭하여 이러한 수를 0으로 재설정할 수 있습니다.
 
 예를 들어 다음 이미지는 Adobe Target에 대한 정보를 보여 줍니다. 인증 없이 아래에 나와 있는 활동 세부 정보를 표시하려면 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 [응답 토큰](https://docs.adobe.com/content/help/ko/target/using/administer/response-tokens.html)을 켜야 합니다.
 
@@ -33,7 +33,7 @@ Experience Cloud 디버거 요약 화면이 표시됩니다.
 
 ## Adobe Experience Platform Auditor에서 감사 실행 {#section-82bc57440406461ebf27a16855b71655}
 
-Platform Auditor를 사용하여 페이지에서 일련의 감사를 실행할 수 있습니다. Platform Auditor를 실행하려면 상단 메뉴에서 **[!UICONTROL Auditor]**&#x200B;를 클릭한 다음 **[!UICONTROL 지금 페이지 감사]**&#x200B;를 클릭합니다. Platform Auditor를 열려면 **[!UICONTROL 지금 다중 페이지 감사 실행]**&#x200B;을 클릭합니다.
+Platform Auditor를 사용하여 페이지에서 일련의 감사를 실행할 수 있습니다. Platform Auditor를 실행하려면 상단 메뉴에서 **[!UICONTROL Auditor]**&#x200B;를 클릭한 다음 **[!UICONTROL Audit Page Now]**&#x200B;를 클릭합니다. Platform Auditor를 열려면 **[!UICONTROL Run Multi-Page Audit Now]**&#x200B;를 클릭합니다.
 
 ## Experience Cloud Debugger에 표시된 정보 {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
