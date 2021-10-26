@@ -6,16 +6,39 @@ seo-title: Release Notes
 title: 릴리스 정보
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
-source-git-commit: 016054f3cd47b9089afbdfbe75c5beec6945ce56
+source-git-commit: 026ce852ded530e89f36bb01274d7481e07731c0
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 18%
+source-wordcount: '234'
+ht-degree: 15%
 
 ---
 
 # 릴리스 정보{#release-notes}
 
 ## 릴리스 정보 {#topic-a92c3eb799b74e7fa404af8af5efb215}
+
+## 버전 1.2.0 2021년 10월 26일
+
+## 새로운 기능
+
+<table id="table">
+ <thead>
+  <tr>
+   <th colname="col1" class="entry"> 기능 </th>
+   <th colname="col2" class="entry"> 설명 </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colname="col1"> <p> 네트워크 보기에 표시되는 모든 브라우저 탭의 이벤트 </p> </td>
+   <td colname="col2"> <p> 네트워크 보기에 있는 모든 브라우저 탭의 이벤트를 표시합니다. 현재 탭에서 이벤트만 보려면 디버거의 오른쪽 하단에 있는 잠금 아이콘을 클릭합니다.</p> </td>
+  </tr>
+  <tr>
+   <td colname="col1"> <p> 브랜딩 변경 사항 </p> </td>
+   <td colname="col2"> <p> AEP 웹 SDK는 Adobe Experience Platform 웹 SDK가 되고 Launch는 Adobe Experience Platform 태그가 됩니다.</p> </td>
+  </tr>
+ </tbody>
+</table>
 
 ## 버전 1.1.0 2021년 10월 5일
 
