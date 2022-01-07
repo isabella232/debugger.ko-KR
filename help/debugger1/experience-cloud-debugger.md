@@ -6,10 +6,10 @@ seo-title: Adobe Experience Cloud Debugger Chrome Extension
 title: Adobe Experience Cloud Debugger 확장 프로그램
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
-source-git-commit: bb3891dabd8721fe9e81bffac8e97fd2866b676b
+source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 85%
+source-wordcount: '262'
+ht-degree: 84%
 
 ---
 
@@ -24,8 +24,7 @@ ht-degree: 85%
 다음과 같은 작업 과정에 대한 다른 Adobe 활성화 솔루션으로 Adobe Experience Cloud Debugger 확장 프로그램을 사용합니다.
 
 1. 사용 [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=ko-KR) 를 활성화한 코드를 삽입하려면 [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) 솔루션 을 참조하십시오.
-
-1. [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/ko/auditor/using/overview.html)를 사용하여 구현을 테스트합니다.
+1. Adobe Experience Platform Auditor를 사용하여 구현을 테스트합니다.
 1. Adobe Experience Cloud Debugger 확장 프로그램을 사용하여 감사에서 발견한 문제를 디버깅하거나 구현에 대한 다른 정보를 조사합니다.
 
 위의 단계는 반드시 해당 순서대로 수행되는 것은 아니지만, 일반적인 프로세스입니다.
