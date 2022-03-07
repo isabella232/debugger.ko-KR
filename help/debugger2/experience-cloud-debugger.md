@@ -6,7 +6,7 @@ seo-title: Adobe Experience Platform Debugger Chrome and Firefox Extension
 title: Adobe Experience Platform Debugger 확장 프로그램
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
-source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
+source-git-commit: af031b800b991e0e906e9abda88992f093c58fbc
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 29%
@@ -24,7 +24,7 @@ ht-degree: 29%
 다른 Adobe 활성화 솔루션과 함께 Platform Debugger를 사용하여 다음을 수행할 수 있습니다.
 
 1. 사용 [태그](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=ko-KR) 를 사용하여 코드를 작성합니다 [Adobe Experience Cloud](https://docs.adobe.com/content/help/ko/core-services/interface/experience-cloud.html) 제품에서 사용할 수 있습니다.
-1. 를 사용하십시오 [**[!UICONTROL Auditor]**탭](./auditor.md) 플랫폼 디버거에서 구현을 테스트합니다.
+1. 를 사용하십시오 [**[!UICONTROL Auditor]**탭](./auditor/overview.md) 플랫폼 디버거에서 구현을 테스트합니다.
 1. Platform Debugger의 이벤트 기반 및 솔루션별 도구를 사용하여 감사에서 발견한 문제를 디버깅하거나 구현에 대한 다른 정보를 검사합니다.
 
 >[!NOTE]
