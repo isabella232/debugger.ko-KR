@@ -1,15 +1,15 @@
 ---
 description: Adobe Debugger의 솔루션 탭 사용
 keywords: 디버거;experience cloud debugger 확장 프로그램;chrome;확장 프로그램;요약;지우기;요청;솔루션;솔루션;정보;analytics;target;audience manager;media optimizer;amo;id 서비스
-seo-description: Adobe Debugger의 솔루션 탭 사용
-seo-title: Adobe Debugger의 솔루션 탭
-title: 솔루션 탭
+seo-description: Using the Solution tabs in Adobe Debugger
+seo-title: Solution Tabs in Adobe Debugger
+title: Experience Cloud Debugger의 솔루션 탭
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 100%
+source-wordcount: '1077'
+ht-degree: 99%
 
 ---
 

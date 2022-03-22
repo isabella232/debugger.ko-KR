@@ -1,15 +1,15 @@
 ---
 description: Experience Cloud Debugger 실행
 keywords: debugger;experience cloud debugger 확장 프로그램;chrome;확장 프로그램;요약;지우기;요청;요약 화면;솔루션;정보;analytics;target;dtm;audience manager;launch;id 서비스
-seo-description: Experience Cloud Debugger 실행
-seo-title: 요약 화면
-title: 요약 화면
+seo-description: Running Experience Cloud Debugger
+seo-title: Summary Screen
+title: 요약 화면 Experience Cloud Debugger
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '1069'
-ht-degree: 100%
+source-wordcount: '1066'
+ht-degree: 99%
 
 ---
 
