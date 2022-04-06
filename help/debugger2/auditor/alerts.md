@@ -1,8 +1,8 @@
 ---
 title: 경고 테스트 참조
-description: Auditor가 Adobe Experience Platform Debugger에서 경고에 대한 기능을 테스트하는 방법을 알아봅니다.
+description: Auditor가 Adobe Experience Platform Debugger에 있는 경고를 테스트하는 방법을 알아봅니다.
 exl-id: ac6f8675-6c34-48b4-b5dd-48e92af217fd
-source-git-commit: f18828bcaa0d244bd5b117fd8bf1c1cdba4d4b52
+source-git-commit: 2223e29de6876639c5dbffda4954e114dcd32521
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 31%

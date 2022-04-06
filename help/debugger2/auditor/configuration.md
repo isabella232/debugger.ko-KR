@@ -1,8 +1,8 @@
 ---
 title: 구성 테스트 참조
-description: Auditor가 Adobe Experience Platform Debugger의 구성을 테스트하는 방법을 알아봅니다.
+description: Auditor가 Adobe Experience Platform Debugger에서 구성을 테스트하는 방법을 알아봅니다.
 exl-id: 92b07224-57f1-4891-9923-aa079945e6bc
-source-git-commit: f18828bcaa0d244bd5b117fd8bf1c1cdba4d4b52
+source-git-commit: 2223e29de6876639c5dbffda4954e114dcd32521
 workflow-type: tm+mt
 source-wordcount: '763'
 ht-degree: 65%

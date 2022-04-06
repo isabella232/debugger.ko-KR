@@ -1,20 +1,16 @@
 ---
-title: Auditor
+title: Auditor 탭
 description: Adobe Experience Platform Debugger의 Auditor 탭을 사용하여 Adobe Experience Cloud 구현을 테스트하는 방법을 알아봅니다.
 keywords: debugger;experience platform debugger 확장 프로그램;chrome;확장 프로그램;auditor;dtm;target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-source-git-commit: 84aa9d71d3f3bc84a9bcbf18a9978428964f1f74
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 46%
+source-wordcount: '358'
+ht-degree: 43%
 
 ---
 
-# Auditor
-
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger는 현재 베타 버전입니다. 설명서 및 기능은 변경될 수 있습니다.
+# Auditor 탭
 
 Adobe Experience Platform Debugger에서 **[!UICONTROL Auditor]** 탭에서 페이지에 대한 일련의 감사 테스트를 실행합니다.
 
