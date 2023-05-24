@@ -10,8 +10,8 @@ breadcrumb-title: Platform Debugger 안내서
 index: true
 source-git-commit: b4f705ad457ff5841f1610a01e2e8e40cd54f894
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '55'
+ht-degree: 81%
 
 ---
 

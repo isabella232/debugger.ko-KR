@@ -145,7 +145,7 @@ Experience Cloud Debugger에는 각 솔루션에 대한 다음 정보가 표시�
   </tr> 
   <tr> 
    <td colname="col1"> <p>빌드 날짜 </p> </td> 
-   <td colname="col2"> <p>Platform Launch <a href="https://docs.adobe.com/content/help/en/dtm/using/library-management.html" format="html" scope="external"> 라이브러리</a> 빌드 날짜입니다. </p> </td> 
+   <td colname="col2"> <p>Platform Launch <a href="https://docs.adobe.com/content/help/ko/dtm/using/library-management.html" format="html" scope="external"> 라이브러리</a> 빌드 날짜입니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>환경 </p> </td> 
@@ -168,7 +168,7 @@ Experience Cloud Debugger에는 각 솔루션에 대한 다음 정보가 표시�
   </tr> 
   <tr> 
    <td colname="col1"> <p>버전 </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/en/analytics/technotes/visitor-identification.html" format="html" scope="external"> 방문자 ID</a> 라이브러리의 버전입니다. </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/ko/analytics/technotes/visitor-identification.html" format="html" scope="external"> 방문자 ID</a> 라이브러리의 버전입니다. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -191,31 +191,31 @@ Experience Cloud Debugger에는 각 솔루션에 대한 다음 정보가 표시�
   </tr> 
   <tr> 
    <td colname="col1"> <p>Mbox 이름 </p> </td> 
-   <td colname="col2"> <p>페이지에서 <a href="https://docs.adobe.com/content/help/ko/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> 위치</a> 주위에 있는 mbox 이름입니다. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
+   <td colname="col2"> <p>페이지에서 <a href="https://docs.adobe.com/content/help/ko/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> 위치</a> 주위에 있는 mbox 이름입니다. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/ko/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>활동 이름 </p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ko/target/using/activities/activities.html" format="html" scope="external"> 캠페인 또는 활동</a>의 이름입니다. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ko/target/using/activities/activities.html" format="html" scope="external"> 캠페인 또는 활동</a>의 이름입니다. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/ko/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>활동 ID </p> </td> 
-   <td colname="col2"> <p>Target 활동의 ID입니다. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
+   <td colname="col2"> <p>Target 활동의 ID입니다. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/ko/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>레서피 이름 </p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ko/target/using/experiences/experiences.html" format="html" scope="external"> 경험</a>의 이름입니다. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ko/target/using/experiences/experiences.html" format="html" scope="external"> 경험</a>의 이름입니다. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/ko/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>레서피 ID </p> </td> 
-   <td colname="col2"> <p>Target 레서피의 ID입니다. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
+   <td colname="col2"> <p>Target 레서피의 ID입니다. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/ko/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>오퍼 </p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ko/target/using/experiences/offers/manage-content.html" format="html" scope="external"> 오퍼</a>의 이름입니다. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ko/target/using/experiences/offers/manage-content.html" format="html" scope="external"> 오퍼</a>의 이름입니다. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/ko/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>오퍼 ID </p> </td> 
-   <td colname="col2"> <p>Target 오퍼의 ID입니다. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
+   <td colname="col2"> <p>Target 오퍼의 ID입니다. 코드 또는 태그 관리자에서 디버깅 이벤트 리스너를 구현하고 Target UI에서 필요한 <a href="https://docs.adobe.com/content/help/ko/target/using/administer/response-tokens.html" format="html" scope="external"> 응답 토큰</a>을 켜는 경우에만 인증 없이 사용할 수 있습니다. </p> </td> 
   </tr> 
  </tbody> 
 </table>

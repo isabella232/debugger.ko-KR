@@ -5,6 +5,6 @@ source-wordcount: '9'
 ht-degree: 0%
 
 ---
-# debugger.en 이 보관됨
+# debugger.en이 보관되었습니다.
 
 https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html

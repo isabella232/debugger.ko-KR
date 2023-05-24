@@ -1,6 +1,6 @@
 ---
 title: 요약 탭
-description: Adobe Experience Platform Debugger에서 요약 탭을 사용하는 방법을 알아봅니다.
+description: Adobe Experience Platform Debugger의 요약 탭을 사용하는 방법에 대해 알아봅니다.
 keywords: debugger;experience Platform Debugger 확장 프로그램;chrome;확장 프로그램;요약;지우기;요청;요약 화면;솔루션;정보;analytics;target;dtm;audience manager;launch;id 서비스
 seo-description: Experience Platform Debugger Summary Screen
 seo-title: Summary Tab
@@ -9,13 +9,13 @@ exl-id: 91234125-15c4-4111-9ee4-f3af093a3c4d
 source-git-commit: 220746028a55f613ae45f31cb74d5da3e187f374
 workflow-type: tm+mt
 source-wordcount: '916'
-ht-degree: 75%
+ht-degree: 76%
 
 ---
 
 # 요약 탭
 
-Adobe Experience Platform Debugger를 실행하려면 브라우저에서 검사할 페이지를 열고 아이콘(![](assets/start-icon.jpg))을 클릭하여 제품에서 사용할 수 있습니다. 확장은 **요약** 탭.
+Adobe Experience Platform Debugger를 실행하려면 브라우저에서 검사할 페이지를 연 다음 아이콘(![](assets/start-icon.jpg))을 클릭하여 제품에서 사용할 수 있습니다. 확장 프로그램은 **요약** 탭.
 
 ![](assets/summary.jpg)
 
@@ -89,7 +89,7 @@ Experience Platform Debugger에는 각 솔루션에 대한 다음 정보가 표�
   </tr> 
   <tr> 
    <td colname="col1"> <p>환경 </p> </td> 
-   <td colname="col2"> <p>다음 <a href="https://experienceleague.adobe.com/docs/experience-platform/tags/publish/environments/environments.html" format="https" scope="external"> 환경</a> 태그 라이브러리에 의해 사용됩니다. </p> </td> 
+   <td colname="col2"> <p>다음 <a href="https://experienceleague.adobe.com/docs/experience-platform/tags/publish/environments/environments.html" format="https" scope="external"> 환경</a> 태그 라이브러리에서 사용됨 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>확장 </p> </td> 
@@ -139,7 +139,7 @@ Experience Platform Debugger에는 각 솔루션에 대한 다음 정보가 표�
   </tr> 
   <tr> 
    <td colname="col1"> <p>버전 </p> </td> 
-   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external"> 방문자 ID</a> 라이브러리의 버전입니다. </p> </td> 
+   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/ko_KR/sc/implement/visid_analytics.html" format="html" scope="external"> 방문자 ID</a> 라이브러리의 버전입니다. </p> </td> 
   </tr> 
  </tbody> 
 </table>

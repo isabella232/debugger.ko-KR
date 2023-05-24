@@ -17,13 +17,13 @@ ht-degree: 84%
 
 >[!IMPORTANT]
 >
->현재 사용할 수 있는 새로운 버전의 디버거가 있습니다. 최신 기능에 대한 자세한 내용은 [Adobe Experience Platform Debugger 설명서](../debugger2/experience-cloud-debugger.md).
+>현재 사용할 수 있는 새 버전의 디버거가 있습니다. 최신 기능에 대한 자세한 내용은 [Adobe Experience Platform Debugger 설명서](../debugger2/experience-cloud-debugger.md).
 
 [Chrome용 Adobe Experience Cloud Debugger 확장 프로그램](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob)은 웹 페이지를 검사하고 Experience Cloud 솔루션이 구현되는 방식과 관련된 문제를 찾는 데 도움이 됩니다.
 
 다음과 같은 작업 과정에 대한 다른 Adobe 활성화 솔루션으로 Adobe Experience Cloud Debugger 확장 프로그램을 사용합니다.
 
-1. 사용 [태그](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=ko-KR) 를 활성화한 코드를 삽입하려면 [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) 솔루션 을 참조하십시오.
+1. 사용 [태그](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=ko-KR) 를 활성화하는 코드를 삽입하려면 [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) 페이지에 있는 솔루션
 1. Adobe Experience Platform Auditor를 사용하여 구현을 테스트합니다.
 1. Adobe Experience Cloud Debugger 확장 프로그램을 사용하여 감사에서 발견한 문제를 디버깅하거나 구현에 대한 다른 정보를 조사합니다.
 
